@@ -9,3 +9,6 @@ format:
 ---
 # Hello Everyone!  
 Welcome to my Quarto website.  
+
+
+I finished my Quarto Initial Setup.
