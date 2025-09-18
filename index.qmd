@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Website"
+title: "Welcome to My World"
 author: "Hung Trung Nguyen"
 date: "`r Sys.Date()`"
 format:
@@ -7,8 +7,8 @@ format:
     theme: journal
     toc: true
 ---
-# Hello Everyone!  
+# Warm Greetings To Everyone! 
+ 
 Welcome to my Quarto website.  
-
 
 I finished my Quarto Initial Setup.

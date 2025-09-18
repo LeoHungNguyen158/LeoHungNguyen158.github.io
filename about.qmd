@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+I am a Graduate student in Applied Business Analytics program in Boston University. 
+
+This website is a platform where I upload all of my projects that I participated in.
