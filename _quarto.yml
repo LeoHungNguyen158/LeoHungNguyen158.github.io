@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: system_info.qmd
+      - href: Assignment 01/system_info.qmd
 
 format:
   html:

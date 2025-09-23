@@ -1,23 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My World",
+    "section": "",
+    "text": "Warm Greetings To Everyone!\nWelcome to my Quarto website.\nI finished my Quarto Initial Setup."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Hello Everyone!\nWelcome to my Quarto website.\nI finished my Quarto Initial Setup."
-  },
-  {
-    "objectID": "system_info.html",
-    "href": "system_info.html",
-    "title": "Assignment 01",
-    "section": "",
-    "text": "import platform import psutil\nprint(“Operating System:”, platform.system(), platform.release()) print(“Python Version:”, platform.python_version()) print(“Machine:”, platform.machine()) print(“Processor:”, platform.processor())\nmem = psutil.virtual_memory() print(“Total Memory (MB):”, round(mem.total / (10242), 2)) print(“Available Memory (MB):”, round(mem.available / (10242), 2))"
+    "text": "I am a Graduate student in Applied Business Analytics program in Boston University.\nThis website is a platform where I upload all of my projects that I participated in."
   }
 ]
