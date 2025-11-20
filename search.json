@@ -4,83 +4,55 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below is a selection of academic and professional analytics projects that showcase my technical and business skill set."
-  },
-  {
-    "objectID": "projects.html#microbrewery-strategic-quality-control-analysis",
-    "href": "projects.html#microbrewery-strategic-quality-control-analysis",
-    "title": "Projects",
-    "section": "📊 Microbrewery Strategic & Quality Control Analysis",
-    "text": "📊 Microbrewery Strategic & Quality Control Analysis\nSkills: Python, Decision Trees, Monte Carlo Simulation, Linear Programming\n- Built financial projections using decision tree models, break-even analysis, and risk quantification.\n- Executed 1,000+ iteration Monte Carlo simulations to model microchip defect rates and quality control risks.\n- Applied linear programming to optimize production schedules, reduce operating costs, and increase expected ROI.\n- Developed a strategic launch plan for a Houston-based brewery with targeted marketing and operational alignment to seasonal demand.\n:contentReferenceoaicite:3"
-  },
-  {
-    "objectID": "projects.html#cruise-industry-market-analysis",
-    "href": "projects.html#cruise-industry-market-analysis",
-    "title": "Projects",
-    "section": "🚢 Cruise Industry Market Analysis",
-    "text": "🚢 Cruise Industry Market Analysis\nSkills: Python, K-means clustering, Conjoint Analysis, A/B Testing\n- Conducted exploratory data analysis to uncover cruise industry trends and port visit behaviors.\n- Used K-means clustering to segment passenger demographics and identify target segments.\n- Performed conjoint analysis and A/B tests to evaluate feature preferences for luxury cruise experiences.\n:contentReferenceoaicite:4"
-  },
-  {
-    "objectID": "projects.html#airbnb-market-analysis-copenhagen",
-    "href": "projects.html#airbnb-market-analysis-copenhagen",
-    "title": "Projects",
-    "section": "🧬 Airbnb Market Analysis (Copenhagen)",
-    "text": "🧬 Airbnb Market Analysis (Copenhagen)\nSkills: Regression, PCA, Clustering, Classification (NB, KNN, Decision Trees)\n- Cleaned and visualized thousands of Airbnb listings with geospatial mapping and pricing trend analysis.\n- Built regression models (Adjusted R² = 0.572) to identify key price drivers and support pricing recommendations.\n- Used PCA + K-means to segment listings and users; delivered insights for pricing strategy and value optimization.\n:contentReferenceoaicite:5"
-  },
-  {
-    "objectID": "projects.html#enterprise-analytics-system-bu-symposium-2024",
-    "href": "projects.html#enterprise-analytics-system-bu-symposium-2024",
-    "title": "Projects",
-    "section": "🧠 Enterprise Analytics System (BU Symposium 2024)",
-    "text": "🧠 Enterprise Analytics System (BU Symposium 2024)\nSkills: Enterprise Architecture, AI/ML Systems, Blockchain Concepts\n- Conducted research on AI-enabled Enterprise Analytics Systems (EAS) for innovation and operational efficiency.\n- Proposed an enterprise architecture integrating ML, blockchain, and scalable data frameworks for SMEs.\n- Highlighted policy alignment, digital transformation strategies, and workforce development.\n:contentReferenceoaicite:6"
-  },
-  {
-    "objectID": "projects.html#northwind-sqlpython-analytics-pipeline",
-    "href": "projects.html#northwind-sqlpython-analytics-pipeline",
-    "title": "Projects",
-    "section": "🛒 Northwind SQL–Python Analytics Pipeline",
-    "text": "🛒 Northwind SQL–Python Analytics Pipeline\nSkills: SQL (CTEs, Window Functions), Python (pandas), Matplotlib\n- Built an end-to-end analytics workflow combining production-level SQL with Python automation.\n- Used CTEs, ranking functions, and window functions to evaluate employee performance, monthly trends, and customer segments.\n- Automated feature engineering and forecasting workflows; generated insights for sales optimization and inventory planning.\n:contentReferenceoaicite:7"
+    "text": "📊 Microbrewery Strategic & Quality Control Analysis\nSkills: Python, Decision Trees, Monte Carlo Simulation, Linear Programming\n- Built financial projections using decision tree models and risk-adjusted return scenarios.\n- Ran 1,000+ Monte Carlo iterations to simulate microchip defect rates and production variability.\n- Applied linear programming to optimize brewing schedules and resource allocation.\n\n\n🛳 Cruise Experience Segmentation & Conjoint Analysis\nSkills: Python, K-means, Conjoint Analysis, A/B Testing\n- Segmented Caribbean cruise ports using k-means clustering.\n- Built conjoint models to evaluate customer preference structures for luxury cruise features.\n- Delivered segmentation-based product recommendations.\n\n\n🧬 Pokémon Attribute & Cluster Analysis (AD699)\nSkills: R, Hierarchical Clustering, Dendrograms\n- Conducted attribute scaling and hierarchical clustering of Pokémon species.\n- Built dendrograms to interpret natural grouping and combat-role patterns.\n\n\n🧠 Enterprise Analytics System (EAS) – BU Symposium 2024\nSkills: Enterprise Architecture, AI Systems, Research Writing\n- Proposed an enterprise analytics architecture integrating ML, blockchain, and scalable cloud frameworks.\n- Addressed SME challenges in digital transformation.\n\n\n🛒 Northwind SQL–Python Data Pipeline\nSkills: SQL (CTEs, Window Functions), Python (pandas), Data Visualization\n- Built end-to-end analytics pipeline combining SQL and Python.\n- Used CTEs and window functions for sales forecasting and segmentation.\n- Automated reports using pandas & matplotlib."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "If you are interested, please have a look at my CV.\nClick here to download my CV (PDF)"
+    "text": "📄 Curriculum Vitae\nDownload the full PDF version of my resume below:\n📥 Download Resume (PDF)\n\n\n🎓 Education\n\nBoston University – Metropolitan College\nM.S. in Applied Business Analytics (Expected Jan 2026)\nRelevant Coursework: Python & SQL, Data Mining, Cloud Analytics, Marketing Analytics, Enterprise Risk Analytics, Decision Making & Operations.\n\n\n\nUniversity of Technology Sydney (UTS)\nMaster of Property Development & Project Management (2019–2024)\n\n\n\n💼 Experience\n\nTeaching Assistant – AD599: Python & SQL for Business Analytics\nBoston University | Sept 2025 – Present\n- Support 70+ graduate students across Python scripting, SQL querying, and data modeling labs.\n- Grade assignments and assist with loops, joins, and analytics workflow design.\n- Contribute to course material updates and project evaluations.\n\n\n\nDigital Marketing Director\nTin A Co., Ltd – Vietnam | Mar 2024 – Mar 2025\n- Led data-driven market entry strategy for renewable energy & healthcare tech.\n- Improved targeting accuracy by 20%.\n- Coordinated 7+ monthly international shipments.\n- Secured 5 partnership contracts via cross-industry research.\n\n\n\nData Analyst – Finance Department\nMarriott Bonvoy Renaissance Riverside | Mar 2022 – Jul 2023\n- Forecasted revenue and cost trends, supporting ~20% quarterly uplift.\n- Automated 10+ workflows (PivotTables, VBA), saving 3 hours per week.\n- Conducted audit support reducing inventory discrepancies by 5%.\n\n\n\nMarketing & Project Development Coordinator\nThang Uy Group | Mar 2021 – Mar 2022\n- Conducted market and competitor analysis for EV infrastructure initiatives.\n- Supported investor engagement for electric scooter campaigns.\n- Coordinated partnerships with Singapore, Korea, and Israel.\n\n\n\n📊 Selected Projects\n\nEnterprise Analytics System (EAS) – BU Symposium 2024\nDesigned enterprise analytics architecture integrating ML, blockchain, and cloud frameworks.\n\n\n\nMicrobrewery Optimization\nApplied Decision Trees, Monte Carlo Simulation (1,000+ iterations), and Linear Programming.\n\n\n\nNorthwind SQL–Python Analytics Pipeline\nDeveloped full analytics workflow using SQL CTEs, window functions, and pandas automation.\n\n\n\nCruise & Pokémon Segmentation Projects\nSpecialized in clustering (K-means, hierarchical) and feature-based classification.\n\n\n\n🛠 Technical Skills\nLanguages: Python, R, SQL\nDatabases: MySQL, SQLite, Google BigQuery\nTools: Power BI, Tableau, Jupyter Notebook, RStudio, Excel (VBA, Solver, PivotTables)\nTechniques: Regression, Classification, Clustering, Forecasting, Optimization\nOther: Data Visualization, ETL Automation, Business Modeling"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, Welcome !",
+    "title": "👋 Hi, I’m Leo Hung Nguyen",
     "section": "",
-    "text": "Welcome to My Portfolio ! Glad you are here !\nHi, I’m Leo Hung Nguyen, a graduate student in the Applied Business Analytics program at Boston University.\nUse the navigation bar to explore my background, projects, CV, and ways to connect."
+    "text": "Transforming data into insights, strategy, and impact."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-portfolio",
+    "href": "index.html#welcome-to-my-portfolio",
+    "title": "👋 Hi, I’m Leo Hung Nguyen",
+    "section": "Welcome to My Portfolio",
+    "text": "Welcome to My Portfolio\nThis website showcases my academic work, technical projects, professional experience, and analytics journey as a graduate student at Boston University.\nUse the navigation bar above to explore:\n\nAbout You – who I am, what I do\n\nProjects – hands-on analytics & machine learning projects\n\nCV – downloadable resume\n\nContact – reach out or connect"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact Me",
+    "title": "Contact",
     "section": "",
-    "text": "📧 Email: hungtrung.nguyen95@gmail.com\n\n🌐 GitHub: https://github.com/LeoHungNguyen158"
+    "text": "📬 Contact Me\nIf you’d like to connect, collaborate, or learn more about my work, feel free to reach out using the information below.\n\n\n📧 Email\nhungtrung.nguyen95@gmail.com\n\n\n💼 LinkedIn\n(Add your link here)\n\n\n💻 GitHub\nhttps://github.com/LeoHungNguyen158\n\n\n📍 Based in\nBoston, MA"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#professional-background",
+    "href": "about.html#professional-background",
     "title": "About Me",
-    "section": "",
-    "text": "Hi, I’m Leo Hung Nguyen, a graduate student in Applied Business Analytics at Boston University."
+    "section": "Professional Background",
+    "text": "Professional Background\nI bring cross-functional experience across data analytics, digital marketing, financial modeling, and international project development, having worked in both Vietnam and the U.S.\nPreviously, I supported analytics at Marriott Bonvoy, directed digital marketing at Tin A Co., Ltd, and coordinated EV infrastructure and investor engagement at Thang Uy Group. I’m currently a Teaching Assistant for Python & SQL at Boston University."
   },
   {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
+    "objectID": "about.html#interests-focus",
+    "href": "about.html#interests-focus",
     "title": "About Me",
-    "section": "Interests",
-    "text": "Interests\n\nData Analytics\nMachine Learning\nCloud & Big Data\nBusiness Strategy\n\nEntrepreneurship"
+    "section": "Interests & Focus",
+    "text": "Interests & Focus\n\nData Analytics & Visualization\n\nMachine Learning & Predictive Modeling\n\nSQL & ETL Pipelines\n\nCloud Technologies\n\nBusiness Strategy & Entrepreneurship"
   },
   {
-    "objectID": "about.html#career-goals",
-    "href": "about.html#career-goals",
+    "objectID": "about.html#personal-side",
+    "href": "about.html#personal-side",
     "title": "About Me",
-    "section": "Career Goals",
-    "text": "Career Goals\nMy goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses."
+    "section": "Personal Side",
+    "text": "Personal Side\nOutside of analytics, I enjoy exploring Boston food spots, traveling, building custom mechanical keyboards, and watching basketball."
   }
 ]

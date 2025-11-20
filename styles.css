@@ -1,1 +1,85 @@
-/* css styles */
+/* ====== GLOBAL STYLE ======= */
+body {
+    font-family: "Inter", "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif;
+    background-color: #f7f9fc;
+    line-height: 1.6;
+    color: #222;
+}
+
+/* ====== HEADINGS ====== */
+h1, h2, h3 {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #111;
+}
+
+/* ====== CONTENT BLOCK CARDS ====== */
+.content-block {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    margin-bottom: 28px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+/* ====== LINKS ====== */
+a {
+    color: #2b6cb0;
+}
+a:hover {
+    color: #1a4d80;
+    text-decoration: underline;
+}
+
+/* ====== NAVBAR ====== */
+.navbar {
+    padding: 14px 24px !important;
+    font-size: 1.1rem;
+}
+
+.navbar-brand {
+    font-weight: 700 !important;
+}
+
+/* ===== BUTTONS ===== */
+.btn-primary {
+    padding: 10px 18px;
+    border-radius: 12px;
+    font-weight: 600;
+    background-color: #2b6cb0;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #1a4d80;
+}
+
+/* ====== IMAGE STYLING ====== */
+.profile-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+/* ====== LAYOUT SPACING ====== */
+main.content {
+    margin-top: 30px;
+}
+
+/* Fade-in animation */
+.content-block {
+    animation: fadeUp 0.6s ease-in-out;
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(14px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
