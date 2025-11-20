@@ -7,7 +7,6 @@ page-layout: full
 
 <div class="content-block">
 
-
 Hi, I’m **Leo Hung Nguyen**, a graduate student in **Applied Business Analytics** at **Boston University** with a passion for data, business strategy, and innovation. I combine analytical thinking with business acumen to solve real-world problems.
 
 ---
