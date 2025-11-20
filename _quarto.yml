@@ -16,12 +16,16 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     toc: false
     smooth-scroll: true
     page-layout: full
     css: styles.css
 
+website:
+  page-footer:
+    left: "© 2025 Leo Hung Nguyen"
+    right: "Built with Quarto"
 
 
 

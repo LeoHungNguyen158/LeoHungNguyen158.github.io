@@ -1,7 +1,28 @@
 ---
-title: "Contact Me"
+title: "Contact"
 page-layout: full
 ---
 
-- 📧 Email: hungtrung.nguyen95@gmail.com  
-- 🌐 GitHub: https://github.com/LeoHungNguyen158
+<br>
+
+<div class="content-block">
+
+# 📬 Contact Me
+
+If you'd like to connect, collaborate, or learn more about my work, feel free to reach out using the information below.
+
+---
+
+### 📧 Email  
+**hungtrung.nguyen95@gmail.com**
+
+### 💼 LinkedIn  
+(Add your link here)
+
+### 💻 GitHub  
+https://github.com/LeoHungNguyen158
+
+### 📍 Based in  
+Boston, MA
+
+</div>

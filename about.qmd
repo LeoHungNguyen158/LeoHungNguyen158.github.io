@@ -3,17 +3,36 @@ title: "About Me"
 page-layout: full
 ---
 
-Hi, I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at Boston University.
+<img src="Leo.jpg" class="profile-photo">
 
-![](Leo.jpg){fig-align="center"}
+<div class="content-block">
 
-## Interests
-- Data Analytics
-- Machine Learning
-- Cloud & Big Data
-- Business Strategy  
-- Entrepreneurship  
+# About Me
 
-## Career Goals
-My goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses.
+Hi, I’m **Leo Hung Nguyen**, a graduate student in **Applied Business Analytics** at **Boston University** with a passion for data, business strategy, and innovation. I combine analytical thinking with business acumen to solve real-world problems.
 
+---
+
+## Professional Background
+
+I bring cross-functional experience across **data analytics, digital marketing, financial modeling, and international project development**, having worked in both Vietnam and the U.S.
+
+Previously, I supported analytics at **Marriott Bonvoy**, directed digital marketing at **Tin A Co., Ltd**, and coordinated EV infrastructure and investor engagement at **Thang Uy Group**. I'm currently a **Teaching Assistant** for Python & SQL at Boston University.
+
+---
+
+## Interests & Focus
+
+- Data Analytics & Visualization  
+- Machine Learning & Predictive Modeling  
+- SQL & ETL Pipelines  
+- Cloud Technologies  
+- Business Strategy & Entrepreneurship  
+
+---
+
+## Personal Side
+
+Outside of analytics, I enjoy exploring Boston food spots, traveling, building custom mechanical keyboards, and watching basketball.
+
+</div>

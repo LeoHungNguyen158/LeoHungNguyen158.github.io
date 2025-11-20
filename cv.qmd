@@ -3,6 +3,103 @@ title: "CV"
 page-layout: full
 ---
 
-If you are interested, please have a look at my CV.
+<br>
 
-[Click here to download my CV (PDF)](cv/Leo_Nguyen_CV.pdf){.btn .btn-primary}
+<div class="content-block">
+
+# 📄 Curriculum Vitae
+
+Download the full PDF version of my resume below:
+
+[**📥 Download Resume (PDF)**](cv/Leo_Nguyen_Resume.pdf){.btn .btn-primary}
+
+</div>
+
+<div class="content-block">
+
+# 🎓 Education
+
+### **Boston University – Metropolitan College**
+*M.S. in Applied Business Analytics (Expected Jan 2026)*  
+Relevant Coursework: Python & SQL, Data Mining, Cloud Analytics, Marketing Analytics, Enterprise Risk Analytics, Decision Making & Operations.
+
+---
+
+### **University of Technology Sydney (UTS)**  
+*Master of Property Development & Project Management (2019–2024)*  
+
+</div>
+
+<div class="content-block">
+
+# 💼 Experience
+
+### **Teaching Assistant – AD599: Python & SQL for Business Analytics**  
+**Boston University** | Sept 2025 – Present  
+- Support **70+ graduate students** across Python scripting, SQL querying, and data modeling labs.  
+- Grade assignments and assist with loops, joins, and analytics workflow design.  
+- Contribute to course material updates and project evaluations.
+
+---
+
+### **Digital Marketing Director**  
+**Tin A Co., Ltd – Vietnam** | Mar 2024 – Mar 2025  
+- Led **data-driven market entry strategy** for renewable energy & healthcare tech.  
+- Improved targeting accuracy by **20%**.  
+- Coordinated **7+ monthly international shipments**.  
+- Secured **5 partnership contracts** via cross-industry research.
+
+---
+
+### **Data Analyst – Finance Department**  
+**Marriott Bonvoy Renaissance Riverside** | Mar 2022 – Jul 2023  
+- Forecasted revenue and cost trends, supporting **~20% quarterly uplift**.  
+- Automated **10+ workflows** (PivotTables, VBA), saving 3 hours per week.  
+- Conducted audit support reducing inventory discrepancies by **5%**.
+
+---
+
+### **Marketing & Project Development Coordinator**  
+**Thang Uy Group** | Mar 2021 – Mar 2022  
+- Conducted market and competitor analysis for **EV infrastructure** initiatives.  
+- Supported investor engagement for electric scooter campaigns.  
+- Coordinated partnerships with Singapore, Korea, and Israel.
+
+</div>
+
+<div class="content-block">
+
+# 📊 Selected Projects
+
+### **Enterprise Analytics System (EAS) – BU Symposium 2024**
+Designed enterprise analytics architecture integrating ML, blockchain, and cloud frameworks.
+
+---
+
+### **Microbrewery Optimization**
+Applied Decision Trees, Monte Carlo Simulation (**1,000+ iterations**), and Linear Programming.
+
+---
+
+### **Northwind SQL–Python Analytics Pipeline**
+Developed full analytics workflow using SQL CTEs, window functions, and pandas automation.
+
+---
+
+### **Cruise & Pokémon Segmentation Projects**
+Specialized in clustering (K-means, hierarchical) and feature-based classification.
+
+</div>
+
+<div class="content-block">
+
+# 🛠 Technical Skills
+
+**Languages:** Python, R, SQL  
+**Databases:** MySQL, SQLite, Google BigQuery  
+**Tools:** Power BI, Tableau, Jupyter Notebook, RStudio, Excel (VBA, Solver, PivotTables)  
+**Techniques:** Regression, Classification, Clustering, Forecasting, Optimization  
+**Other:** Data Visualization, ETL Automation, Business Modeling  
+
+</div>
+
