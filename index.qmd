@@ -1,9 +1,9 @@
 ---
-title: "Welcome"
+title: "Hi, Welcome !"
 page-layout: full
 ---
 
-# Welcome to My Portfolio
+# Welcome to My Portfolio ! Glad you are here !
 
 Hi, I'm **Leo Hung Nguyen**, a graduate student in the Applied Business Analytics program at **Boston University**.
 
