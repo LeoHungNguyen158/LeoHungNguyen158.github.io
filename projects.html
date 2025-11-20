@@ -72,7 +72,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="darkmode.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -209,47 +208,6 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
-// Restore saved preference
-if (localStorage.getItem("dark-mode") === "enabled") {
-    document.body.classList.add("dark");
-}
-
-document.addEventListener("DOMContentLoaded", () =&gt; {
-    const toggleBtn = document.getElementById("dark-toggle");
-
-    if (toggleBtn) {
-        toggleBtn.onclick = function () {
-            document.body.classList.toggle("dark");
-
-            if (document.body.classList.contains("dark")) {
-                localStorage.setItem("dark-mode", "enabled");
-            } else {
-                localStorage.setItem("dark-mode", "disabled");
-            }
-        };
-    }
-
-    // Back-to-top button
-    const topBtn = document.createElement("div");
-    topBtn.id = "backToTop";
-    topBtn.innerHTML = "↑";
-    document.body.appendChild(topBtn);
-
-    window.addEventListener("scroll", () =&gt; {
-        if (document.documentElement.scrollTop &gt; 200) {
-            topBtn.style.display = "block";
-        } else {
-            topBtn.style.display = "none";
-        }
-    });
-
-    topBtn.onclick = () =&gt; {
-        window.scrollTo({
-            top: 0,
-            behavior: "smooth"
-        });
-    };
-});
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -654,8 +612,7 @@ document.addEventListener("DOMContentLoaded", () =&gt; {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 Leo Hung Nguyen<br>
-<button id="dark-toggle" class="dark-toggle-btn">🌒 Toggle Dark Mode</button></p>
+<p>© 2025 Leo Hung Nguyen</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
