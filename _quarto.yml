@@ -16,7 +16,6 @@ website:
   page-footer:
     left: |
       © 2025 Leo Hung Nguyen  
-      <button id="dark-toggle" class="dark-toggle-btn">🌒 Toggle Dark Mode</button>
     right: "Built with Quarto"
 
 format:
@@ -27,6 +26,3 @@ format:
     page-layout: full
     css:
       - styles.css
-      - darkmode.css
-    include-after-body:
-      - darkmode.js
