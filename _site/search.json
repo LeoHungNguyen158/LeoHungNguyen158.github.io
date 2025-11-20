@@ -18,14 +18,14 @@
     "href": "index.html#welcome-to-my-portfolio",
     "title": "👋 Hi, I’m Leo Hung Nguyen",
     "section": "Welcome to My Portfolio",
-    "text": "Welcome to My Portfolio\nThis website showcases my academic work, technical projects, professional experience, and analytics journey as a graduate student at Boston University.\nUse the navigation bar above to explore:\n\nAbout You – who I am, what I do\n\nProjects – hands-on analytics & machine learning projects\n\nCV – downloadable resume\n\nContact – reach out or connect"
+    "text": "Welcome to My Portfolio\nThis website showcases my academic work, technical projects, professional experience, and analytics journey as a graduate student at Boston University.\nUse the navigation bar above to explore:\n\nAbout Me : Who I am and what I do\n\nProjects : Over-view of my hands-on analytics & machine learning projects that I have done\n\nCV : My downloadable resume\n\nContact : Ways to reach out or connect to me"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "📬 Contact Me\nIf you’d like to connect, collaborate, or learn more about my work, feel free to reach out using the information below.\n\n\n📧 Email\nhungtrung.nguyen95@gmail.com\n\n\n💼 LinkedIn\n(Add your link here)\n\n\n💻 GitHub\nhttps://github.com/LeoHungNguyen158\n\n\n📍 Based in\nBoston, MA"
+    "text": "📬 Contact Me\nIf you’d like to connect, collaborate, or learn more about my work, feel free to reach out using the information below.\n\n\n📧 Email\nhungtrung.nguyen95@gmail.com\n\n\n💼 LinkedIn\n(Add LinkedIn link here)\n\n\n💻 GitHub\nhttps://github.com/LeoHungNguyen158\n\n\n📍 Based in\nBoston, MA"
   },
   {
     "objectID": "projects.html",
@@ -39,7 +39,7 @@
     "href": "about.html#professional-background",
     "title": "About Me",
     "section": "Professional Background",
-    "text": "Professional Background\nI bring cross-functional experience across data analytics, digital marketing, financial modeling, and international project development, having worked in both Vietnam and the U.S.\nPreviously, I supported analytics at Marriott Bonvoy, directed digital marketing at Tin A Co., Ltd, and coordinated EV infrastructure and investor engagement at Thang Uy Group. I’m currently a Teaching Assistant for Python & SQL at Boston University."
+    "text": "Professional Background\nI bring cross-functional experience across data analytics, digital marketing, financial modeling, and international project development, having worked in both Vietnam and the U.S.\nPreviously, I supported analytics at Marriott Bonvoy, directed digital marketing at Tin A Co., Ltd, and coordinated EV infrastructure and investor engagement at Thang Uy Group. I am currently a Teaching Assistant for Python & SQL course at Boston University."
   },
   {
     "objectID": "about.html#interests-focus",

@@ -34,9 +34,3 @@ Use the navigation bar above to explore:
 - **Contact**  : Ways to reach out or connect to me  
 
 </div>
-
-<hr>
-
-<div style="text-align:center; color:#888; margin-top:20px;">
-© {{< var year >}} Leo - Hung Trung Nguyen — Built with Quarto
-</div>
