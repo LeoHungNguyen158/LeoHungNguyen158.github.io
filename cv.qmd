@@ -3,6 +3,6 @@ title: "CV"
 page-layout: full
 ---
 
-# Download CV
+If you are interested, please have a look at my CV.
 
 [Click here to download my CV (PDF)](cv/Leo_Nguyen_CV.pdf){.btn .btn-primary}

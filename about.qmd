@@ -3,9 +3,9 @@ title: "About Me"
 page-layout: full
 ---
 
-# About Me
-
 Hi, I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at Boston University.
+
+![](Leo.jpg){fig-align="center"}
 
 ## Interests
 - Data Analytics
@@ -16,3 +16,4 @@ Hi, I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics 
 
 ## Career Goals
 My goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses.
+

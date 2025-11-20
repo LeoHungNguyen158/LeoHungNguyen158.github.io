@@ -4,21 +4,21 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download CV\nClick here to download my CV (PDF)"
+    "text": "If you are interested, please have a look at my CV.\nClick here to download my CV (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Hi, Welcome !",
     "section": "",
-    "text": "Welcome to My Portfolio\nHi, I’m Leo Hung Nguyen, a graduate student in the Applied Business Analytics program at Boston University.\nUse the navigation bar to explore my background, projects, CV, and ways to connect."
+    "text": "Welcome to My Portfolio ! Glad you are here !\nHi, I’m Leo Hung Nguyen, a graduate student in the Applied Business Analytics program at Boston University.\nUse the navigation bar to explore my background, projects, CV, and ways to connect."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Contact Me",
     "section": "",
-    "text": "Contact Me\n\n📧 Email: hungtrung.nguyen95@gmail.com\n\n🌐 GitHub: https://github.com/LeoHungNguyen158"
+    "text": "📧 Email: hungtrung.nguyen95@gmail.com\n\n🌐 GitHub: https://github.com/LeoHungNguyen158"
   },
   {
     "objectID": "projects.html",
@@ -67,20 +67,20 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi, I’m Leo Hung Nguyen, a graduate student in Applied Business Analytics at Boston University.\n\n\n\nData Analytics\nMachine Learning\nCloud & Big Data\nBusiness Strategy\n\nEntrepreneurship\n\n\n\n\nMy goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses."
+    "text": "Hi, I’m Leo Hung Nguyen, a graduate student in Applied Business Analytics at Boston University."
   },
   {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
     "title": "About Me",
-    "section": "",
-    "text": "Data Analytics\nMachine Learning\nCloud & Big Data\nBusiness Strategy\n\nEntrepreneurship"
+    "section": "Interests",
+    "text": "Interests\n\nData Analytics\nMachine Learning\nCloud & Big Data\nBusiness Strategy\n\nEntrepreneurship"
   },
   {
     "objectID": "about.html#career-goals",
     "href": "about.html#career-goals",
     "title": "About Me",
-    "section": "",
-    "text": "My goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses."
+    "section": "Career Goals",
+    "text": "Career Goals\nMy goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses."
   }
 ]
