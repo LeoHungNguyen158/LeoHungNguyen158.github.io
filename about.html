@@ -181,7 +181,6 @@ if (localStorage.getItem("dark-mode") === "enabled") {
     document.body.classList.add("dark");
 }
 
-// Toggle dark mode
 document.addEventListener("DOMContentLoaded", () =&gt; {
     const toggleBtn = document.getElementById("dark-toggle");
 
@@ -203,7 +202,6 @@ document.addEventListener("DOMContentLoaded", () =&gt; {
     topBtn.innerHTML = "↑";
     document.body.appendChild(topBtn);
 
-    // Show on scroll
     window.addEventListener("scroll", () =&gt; {
         if (document.documentElement.scrollTop &gt; 200) {
             topBtn.style.display = "block";
@@ -212,7 +210,6 @@ document.addEventListener("DOMContentLoaded", () =&gt; {
         }
     });
 
-    // click to scroll to top
     topBtn.onclick = () =&gt; {
         window.scrollTo({
             top: 0,
