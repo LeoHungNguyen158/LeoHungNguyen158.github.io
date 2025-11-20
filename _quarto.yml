@@ -30,4 +30,3 @@ format:
       - darkmode.css
     include-after-body:
       - darkmode.js
-
