@@ -1,0 +1,54 @@
+---
+title: "Projects"
+page-layout: full
+---
+
+# Projects
+
+Below is a selection of academic and professional analytics projects that showcase my technical and business skill set.
+
+---
+
+## 📊 Microbrewery Strategic & Quality Control Analysis
+**Skills:** Python, Decision Trees, Monte Carlo Simulation, Linear Programming  
+- Built financial projections using decision tree models, break-even analysis, and risk quantification.  
+- Executed **1,000+ iteration Monte Carlo simulations** to model microchip defect rates and quality control risks.  
+- Applied **linear programming** to optimize production schedules, reduce operating costs, and increase expected ROI.  
+- Developed a strategic launch plan for a Houston-based brewery with targeted marketing and operational alignment to seasonal demand.  
+:contentReference[oaicite:3]{index=3}
+
+---
+
+## 🚢 Cruise Industry Market Analysis
+**Skills:** Python, K-means clustering, Conjoint Analysis, A/B Testing  
+- Conducted exploratory data analysis to uncover cruise industry trends and port visit behaviors.  
+- Used **K-means clustering** to segment passenger demographics and identify target segments.  
+- Performed conjoint analysis and A/B tests to evaluate feature preferences for luxury cruise experiences.  
+:contentReference[oaicite:4]{index=4}
+
+---
+
+## 🧬 Airbnb Market Analysis (Copenhagen)
+**Skills:** Regression, PCA, Clustering, Classification (NB, KNN, Decision Trees)  
+- Cleaned and visualized thousands of Airbnb listings with geospatial mapping and pricing trend analysis.  
+- Built **regression models** (Adjusted R² = 0.572) to identify key price drivers and support pricing recommendations.  
+- Used PCA + K-means to segment listings and users; delivered insights for pricing strategy and value optimization.  
+:contentReference[oaicite:5]{index=5}
+
+---
+
+## 🧠 Enterprise Analytics System (BU Symposium 2024)
+**Skills:** Enterprise Architecture, AI/ML Systems, Blockchain Concepts  
+- Conducted research on AI-enabled Enterprise Analytics Systems (EAS) for innovation and operational efficiency.  
+- Proposed an enterprise architecture integrating ML, blockchain, and scalable data frameworks for SMEs.  
+- Highlighted policy alignment, digital transformation strategies, and workforce development.  
+:contentReference[oaicite:6]{index=6}
+
+---
+
+## 🛒 Northwind SQL–Python Analytics Pipeline
+**Skills:** SQL (CTEs, Window Functions), Python (pandas), Matplotlib  
+- Built an end-to-end analytics workflow combining production-level SQL with Python automation.  
+- Used CTEs, ranking functions, and window functions to evaluate employee performance, monthly trends, and customer segments.  
+- Automated feature engineering and forecasting workflows; generated insights for sales optimization and inventory planning.  
+:contentReference[oaicite:7]{index=7}

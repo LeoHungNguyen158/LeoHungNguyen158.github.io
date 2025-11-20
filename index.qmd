@@ -1,14 +1,10 @@
 ---
-title: "Welcome to My World"
-author: "Hung Trung Nguyen"
-date: "`r Sys.Date()`"
-format:
-  html:
-    theme: journal
-    toc: true
+title: "Welcome"
+page-layout: full
 ---
-# Warm Greetings To Everyone! 
- 
-Welcome to my Quarto website.  
 
-I finished my Quarto Initial Setup.
+# Welcome to My Portfolio
+
+Hi, I'm **Leo Hung Nguyen**, a graduate student in the Applied Business Analytics program at **Boston University**.
+
+Use the navigation bar to explore my background, projects, CV, and ways to connect.

@@ -1,0 +1,8 @@
+---
+title: "CV"
+page-layout: full
+---
+
+# Download CV
+
+[Click here to download my CV (PDF)](cv/Leo_Nguyen_CV.pdf){.btn .btn-primary}

@@ -1,0 +1,9 @@
+---
+title: "Contact"
+page-layout: full
+---
+
+# Contact Me
+
+- 📧 Email: hungtrung.nguyen95@gmail.com  
+- 🌐 GitHub: https://github.com/LeoHungNguyen158
