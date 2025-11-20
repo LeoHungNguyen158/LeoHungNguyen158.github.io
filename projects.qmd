@@ -3,8 +3,6 @@ title: "Projects"
 page-layout: full
 ---
 
-# Projects
-
 Below is a selection of academic and professional analytics projects that showcase my technical and business skill set.
 
 ---
