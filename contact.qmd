@@ -3,26 +3,19 @@ title: "Contact"
 page-layout: full
 ---
 
-<br>
-
 <div class="content-block">
 
-# 📬 Contact Me
+# 📬 Get In Touch
 
-If you'd like to connect, collaborate, or learn more about my work, feel free to reach out using the information below.
-
----
+If you’d like to connect, collaborate, or learn more about my work, feel free to reach out.
 
 ### 📧 Email  
-**hungtrung.nguyen95@gmail.com**
+hungtrung.nguyen95@gmail.com
 
-### 💼 LinkedIn  
-(Add LinkedIn link here)
+### 🔗 LinkedIn  
+[Connect with me](https://www.linkedin.com/in/trung-hung-nguyen-111593253/)
 
-### 💻 GitHub  
-https://github.com/LeoHungNguyen158
-
-### 📍 Based in  
-Boston, MA
+### 💼 GitHub  
+[View my repositories](https://github.com/LeoHungNguyen158)
 
 </div>

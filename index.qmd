@@ -1,36 +1,29 @@
 ---
-title: ""
+title: "Welcome"
 page-layout: full
 ---
 
-<div style="
-  background: linear-gradient(135deg, #2b6cb0, #6cb2eb);
-  padding: 70px 40px; 
-  border-radius: 18px; 
-  color: white;
-  margin-top: 20px;
-">
-  
-# 👋 Hi, I'm **Leo Hung Nguyen**  
-### Data Analyst • Business Analytics • Machine Learning • SQL Developer  
+<div class="hero-box">
 
-Transforming data into insights, strategy, and impact.
+# 👋 Hi, I'm **Leo Hung Nguyen**
+
+### Data Analyst • Business Analytics • Machine Learning • SQL Developer
+
+Turning data into strategy, insight, and results.
 
 </div>
 
-<br>
-
 <div class="content-block">
 
-## Welcome to My Portfolio
+# Welcome to My Portfolio
 
-This website showcases my academic work, technical projects, professional experience, and analytics journey as a graduate student at **Boston University**.
+This portfolio showcases my analytics projects, technical capabilities, and professional experience as a graduate student in **Applied Business Analytics at Boston University**.
 
 Use the navigation bar above to explore:
 
-- **About Me** : Who I am and what I do  
-- **Projects** : Over-view of my hands-on analytics & machine learning projects that I have done  
-- **CV**       : My downloadable resume  
-- **Contact**  : Ways to reach out or connect to me  
+- **About Me** : My background & career focus  
+- **Projects** : My hands-on analytics & ML work  
+- **CV**       : My complete résumé  
+- **Contact**  : Ways to reach me  
 
 </div>

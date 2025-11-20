@@ -3,111 +3,28 @@ title: "Projects"
 page-layout: full
 ---
 
-<br>
-
-# 📊 Selected Projects
-
-Below is a collection of analytics and data-driven projects showcasing my technical, modeling, and business problem-solving skills.
+# 🧩 Featured Projects
 
 <div class="project-grid">
 
-<!-- === EAS PROJECT === -->
 <div class="project-card">
-
-### 🧠 Enterprise Analytics System (EAS) – BU Symposium 2024
-
-Designed an enterprise analytics architecture integrating **machine learning**, **blockchain**, and **cloud pipelines** to support SME digital transformation.
-
-**Badges:**  
-<span class="badge">ML Architecture</span>
-<span class="badge">Cloud</span>
-<span class="badge">Blockchain</span>
-<span class="badge">Enterprise Systems</span>
-
-**Key Contributions:**  
-- Designed ML-enabled data flow architecture  
-- Proposed blockchain auditing for data trust  
-- Integrated cloud-based model deployment concept
-
+<h3>🍺 Microbrewery Strategic & Quality Control Analysis</h3>
+Built Monte Carlo simulations (1,000+ iterations), decision tree models, and linear programming frameworks to optimize production and financial ROI.
 </div>
 
-<!-- === MICROBREWERY PROJECT === -->
 <div class="project-card">
-
-### 🍺 Microbrewery Optimization & Financial Modeling
-
-Applied **Decision Trees**, **Monte Carlo Simulation (1,000+ iterations)**, and **Linear Programming** to optimize brewery production and improve ROI projections.
-
-**Badges:**  
-<span class="badge">Python</span>
-<span class="badge">Monte Carlo</span>
-<span class="badge">Decision Trees</span>
-<span class="badge">Optimization</span>
-
-**Highlights:**  
-- Modeled operational risk and uncertainty  
-- Built scenario-based financial projections  
-- Optimized capacity planning and scheduling
-
+<h3>🌊 Cruise Segmentation & Conjoint Analysis</h3>
+Segmented Caribbean cruise ports using K-Means and developed conjoint models to evaluate customer preferences for luxury amenities.
 </div>
 
-<!-- === NORTHWIND SQL PIPELINE === -->
 <div class="project-card">
-
-### 🛒 Northwind SQL–Python Analytics Pipeline
-
-Developed an analytics workflow using **SQL CTEs**, window functions, and **pandas automation** for forecasting and operational insights.
-
-**Badges:**  
-<span class="badge">SQL</span>
-<span class="badge">Python</span>
-<span class="badge">ETL</span>
-<span class="badge">Forecasting</span>
-
-**Highlights:**  
-- Built CTE chains for data transformation  
-- Automated reporting with Python scripts  
-- Delivered insights for inventory management
-
+<h3>🧠 Enterprise Analytics System — BU Symposium 2024</h3>
+Designed an enterprise analytics architecture integrating ML, cloud frameworks, and BI systems to support SME digital transformation.
 </div>
 
-<!-- === AIRBNB PROJECT === -->
 <div class="project-card">
-
-### 🏡 Airbnb Market Segmentation & Pricing Analysis
-
-Performed segmentation and regression modeling to understand pricing behavior across Airbnb listings in Copenhagen.
-
-**Badges:**  
-<span class="badge">K-means</span>
-<span class="badge">Regression</span>
-<span class="badge">EDA</span>
-<span class="badge">Python</span>
-
-**Highlights:**  
-- Cleaned and analyzed large Airbnb dataset  
-- Built clustering models for listing segmentation  
-- Identified strongest predictors of price (Adj R² ≈ 0.57)
-
+<h3>🛒 Northwind SQL–Python Data Pipeline</h3>
+Built an end-to-end SQL → Python pipeline using CTEs, window functions, and pandas automation to generate forecasting and operational insights.
 </div>
 
-<!-- === CRUISE PROJECT === -->
-<div class="project-card">
-
-### 🌊 Caribbean Cruise Experience Segmentation
-
-Applied **K-means clustering** to segment cruise ports and customer behaviors for itinerary and marketing strategy.
-
-**Badges:**  
-<span class="badge">K-means</span>
-<span class="badge">Clustering</span>
-<span class="badge">Visualization</span>
-
-**Highlights:**  
-- Clustered ports by amenities & location  
-- Segmented passenger patterns  
-- Delivered actionable marketing insights
-
 </div>
-
-</div> <!-- END GRID -->

@@ -13,16 +13,19 @@ website:
         href: cv.qmd
       - text: "Contact"
         href: contact.qmd
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/trung-hung-nguyen-111593253/"
+      - icon: github
+        href: "https://github.com/LeoHungNguyen158"
+
   page-footer:
-    left: |
-      © 2025 Leo Hung Nguyen  
-    right: "Built with Quarto"
+    left: "© 2025 Leo Hung Nguyen — Boston, MA"
+    right: "Built with Quarto • Designed with precision and clarity"
 
 format:
   html:
     theme: lux
-    toc: false
     smooth-scroll: true
     page-layout: full
-    css:
-      - styles.css
+    css: styles.css

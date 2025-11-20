@@ -4,55 +4,34 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "📄 Curriculum Vitae\nDownload my full resume:\n📥 Download Resume (PDF)\n\n\n\n\n\n🎓 Education\n\nBoston University – Metropolitan College\nM.S. in Applied Business Analytics (Expected Jan 2026)\nRelevant Coursework: Python & SQL, Data Mining, Cloud Analytics, Marketing Analytics, Enterprise Risk Analytics, Decision Making & Operations.\n\n\n\nUniversity of Technology Sydney (UTS)\nMaster of Property Development & Project Management (2019–2024)\n\n\n\n\n\n\n💼 Experience\n\nTeaching Assistant – AD599: Python & SQL for Business Analytics\nBoston University | Sept 2025 – Present\n- Support 70+ graduate students in Python scripting, SQL querying, and data modeling.\n- Grade assignments and explain loops, joins, and analytics workflow design.\n- Contribute to project evaluations and instructional material updates.\n\n\n\nDigital Marketing Director – Tin A Co., Ltd\nHo Chi Minh City, Vietnam | Mar 2024 – Mar 2025\n- Led data-driven market entry strategy across renewable energy and healthcare tech sectors.\n- Improved targeting accuracy by 20% through analytics-driven marketing.\n- Coordinated 7+ international shipments/month, enhancing operational efficiency.\n- Secured 5 new partnership contracts using competitive and market analysis.\n\n\n\nData Analyst – Finance Department – Marriott Bonvoy\nHo Chi Minh City, Vietnam | Mar 2022 – Jul 2023\n- Forecasted revenue and modeled cost trends (~20% quarterly uplift).\n- Automated 10+ financial reporting workflows using Excel (VBA, PivotTables).\n- Conducted audit support that reduced inventory discrepancies by 5%.\n\n\n\nMarketing & Project Development Coordinator – Thang Uy Group\nHo Chi Minh City, Vietnam | Mar 2021 – Mar 2022\n- Conducted market and competitor analysis for EV infrastructure initiatives.\n- Supported investor engagement for electric scooter campaigns.\n- Coordinated strategic partnerships with firms in Singapore, Korea, and Israel.\n\n\n\n\n\n\n📊 Selected Projects\n\n🧠 Enterprise Analytics System (EAS) – BU Symposium 2024\nDesigned an enterprise analytics architecture integrating ML, blockchain, and cloud frameworks to improve SME operational efficiency and innovation strategy.\n\n\n\n🍺 Microbrewery Optimization\nApplied Decision Tree Analysis, Monte Carlo Simulation (1,000+ iterations), and Linear Programming to optimize production output and project financial ROI.\n\n\n\n🛒 Northwind SQL–Python Analytics Pipeline\nBuilt a complete analytics workflow using SQL CTEs, window functions, and Python automation for sales forecasting and inventory insights.\n\n\n\n🏡 Airbnb Market Segmentation & Pricing Analysis\nPerformed clustering and regression modeling to analyze pricing drivers and host behavior across Airbnb listings.\n\n\n\n\n\n\n🛠 Technical Skills\nLanguages: Python, R, SQL\nDatabases: MySQL, SQLite, Google BigQuery\nTools: Power BI, Tableau, Jupyter Notebook, RStudio, Excel (VBA, Solver, PivotTables)\nTechniques: Regression, Classification, Clustering, Forecasting, Optimization\nOther: Data Visualization, ETL Automation, Business Modeling"
+    "text": "📄 Curriculum Vitae\n📥 Download My Resume (PDF)\n\n\n🎓 Education\nBoston University – Metropolitan College\nM.S. Applied Business Analytics (Expected Jan 2026)\nUniversity of Technology Sydney (UTS)\nMaster of Property Development & Project Management\n\n\n💼 Experience\n\nTeaching Assistant – AD599 Python & SQL\nBoston University\n- Support 70+ graduate students in Python, SQL, and data modeling\n- Grade coursework and assist with analytical workflow design\n\n\nDigital Marketing Director – Tin A Co., Ltd\nHo Chi Minh City, Vietnam\n- Led data-driven market entry strategy\n- Improved targeting accuracy by 20%\n- Coordinated 7+ international shipments per month\n\n\nData Analyst – Finance, Marriott Bonvoy\nHo Chi Minh City, Vietnam\n- Designed financial models and revenue forecasts\n- Automated Excel/VBA workflows\n- Reduced inventory discrepancies by 5%\n\n\nMarketing & Project Development – Thang Uy Group\n\nConducted EV infrastructure research\n\nSupported investor relations & business expansion\n\n\n\n\n🛠 Technical Skills\nLanguages: Python, R, SQL\nDatabases: MySQL, SQLite, BigQuery\nTools: Power BI, Tableau, Jupyter, RStudio, Excel VBA\nTechniques: Forecasting, Classification, Optimization, ETL Automation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "👋 Hi, I’m Leo Hung Nguyen",
+    "title": "Welcome",
     "section": "",
-    "text": "Transforming data into insights, strategy, and impact."
-  },
-  {
-    "objectID": "index.html#welcome-to-my-portfolio",
-    "href": "index.html#welcome-to-my-portfolio",
-    "title": "👋 Hi, I’m Leo Hung Nguyen",
-    "section": "Welcome to My Portfolio",
-    "text": "Welcome to My Portfolio\nThis website showcases my academic work, technical projects, professional experience, and analytics journey as a graduate student at Boston University.\nUse the navigation bar above to explore:\n\nAbout Me : Who I am and what I do\n\nProjects : Over-view of my hands-on analytics & machine learning projects that I have done\n\nCV : My downloadable resume\n\nContact : Ways to reach out or connect to me"
+    "text": "👋 Hi, I’m Leo Hung Nguyen\n\nData Analyst • Business Analytics • Machine Learning • SQL Developer\nTurning data into strategy, insight, and results.\n\n\n\nWelcome to My Portfolio\nThis portfolio showcases my analytics projects, technical capabilities, and professional experience as a graduate student in Applied Business Analytics at Boston University.\nUse the navigation bar above to explore:\n\nAbout Me : My background & career focus\n\nProjects : My hands-on analytics & ML work\n\nCV : My complete résumé\n\nContact : Ways to reach me"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "📬 Contact Me\nIf you’d like to connect, collaborate, or learn more about my work, feel free to reach out using the information below.\n\n\n📧 Email\nhungtrung.nguyen95@gmail.com\n\n\n💼 LinkedIn\n(Add LinkedIn link here)\n\n\n💻 GitHub\nhttps://github.com/LeoHungNguyen158\n\n\n📍 Based in\nBoston, MA"
+    "text": "📬 Get In Touch\nIf you’d like to connect, collaborate, or learn more about my work, feel free to reach out.\n\n📧 Email\nhungtrung.nguyen95@gmail.com\n\n\n🔗 LinkedIn\nConnect with me\n\n\n💼 GitHub\nView my repositories"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "📊 Selected Projects\nBelow is a collection of analytics and data-driven projects showcasing my technical, modeling, and business problem-solving skills.\n\n\n\n🧠 Enterprise Analytics System (EAS) – BU Symposium 2024\nDesigned an enterprise analytics architecture integrating machine learning, blockchain, and cloud pipelines to support SME digital transformation.\nBadges:\nML Architecture Cloud Blockchain Enterprise Systems\nKey Contributions:\n- Designed ML-enabled data flow architecture\n- Proposed blockchain auditing for data trust\n- Integrated cloud-based model deployment concept\n\n\n\n🍺 Microbrewery Optimization & Financial Modeling\nApplied Decision Trees, Monte Carlo Simulation (1,000+ iterations), and Linear Programming to optimize brewery production and improve ROI projections.\nBadges:\nPython Monte Carlo Decision Trees Optimization\nHighlights:\n- Modeled operational risk and uncertainty\n- Built scenario-based financial projections\n- Optimized capacity planning and scheduling\n\n\n\n🛒 Northwind SQL–Python Analytics Pipeline\nDeveloped an analytics workflow using SQL CTEs, window functions, and pandas automation for forecasting and operational insights.\nBadges:\nSQL Python ETL Forecasting\nHighlights:\n- Built CTE chains for data transformation\n- Automated reporting with Python scripts\n- Delivered insights for inventory management\n\n\n\n🏡 Airbnb Market Segmentation & Pricing Analysis\nPerformed segmentation and regression modeling to understand pricing behavior across Airbnb listings in Copenhagen.\nBadges:\nK-means Regression EDA Python\nHighlights:\n- Cleaned and analyzed large Airbnb dataset\n- Built clustering models for listing segmentation\n- Identified strongest predictors of price (Adj R² ≈ 0.57)\n\n\n\n🌊 Caribbean Cruise Experience Segmentation\nApplied K-means clustering to segment cruise ports and customer behaviors for itinerary and marketing strategy.\nBadges:\nK-means Clustering Visualization\nHighlights:\n- Clustered ports by amenities & location\n- Segmented passenger patterns\n- Delivered actionable marketing insights"
+    "text": "🧩 Featured Projects\n\n\n\n🍺 Microbrewery Strategic & Quality Control Analysis\n\nBuilt Monte Carlo simulations (1,000+ iterations), decision tree models, and linear programming frameworks to optimize production and financial ROI.\n\n\n\n🌊 Cruise Segmentation & Conjoint Analysis\n\nSegmented Caribbean cruise ports using K-Means and developed conjoint models to evaluate customer preferences for luxury amenities.\n\n\n\n🧠 Enterprise Analytics System — BU Symposium 2024\n\nDesigned an enterprise analytics architecture integrating ML, cloud frameworks, and BI systems to support SME digital transformation.\n\n\n\n🛒 Northwind SQL–Python Data Pipeline\n\nBuilt an end-to-end SQL → Python pipeline using CTEs, window functions, and pandas automation to generate forecasting and operational insights."
   },
   {
-    "objectID": "about.html#professional-background",
-    "href": "about.html#professional-background",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About Me",
-    "section": "Professional Background",
-    "text": "Professional Background\nI bring cross-functional experience across data analytics, digital marketing, financial modeling, and international project development, having worked in both Vietnam and the U.S.\nPreviously, I supported analytics at Marriott Bonvoy, directed digital marketing at Tin A Co., Ltd, and coordinated EV infrastructure and investor engagement at Thang Uy Group. I am currently a Teaching Assistant for Python & SQL course at Boston University."
-  },
-  {
-    "objectID": "about.html#interests-focus",
-    "href": "about.html#interests-focus",
-    "title": "About Me",
-    "section": "Interests & Focus",
-    "text": "Interests & Focus\n\nData Analytics & Visualization\n\nMachine Learning & Predictive Modeling\n\nSQL & ETL Pipelines\n\nCloud Technologies\n\nBusiness Strategy & Entrepreneurship"
-  },
-  {
-    "objectID": "about.html#personal-side",
-    "href": "about.html#personal-side",
-    "title": "About Me",
-    "section": "Personal Side",
-    "text": "Personal Side\nOutside of analytics, I enjoy exploring Boston food spots, traveling, building custom mechanical keyboards, and watching basketball."
+    "section": "",
+    "text": "About Me\nI’m Leo Hung Nguyen, a graduate student in Applied Business Analytics at Boston University with a passion for data, problem-solving, and strategic decision-making.\nMy focus is on applying machine learning, analytics engineering, and business intelligence to help organizations make smarter, data-driven decisions.\n\n\nProfessional Background\nI bring cross-functional experience across:\n\nData analytics\n\nDigital marketing\n\nFinancial modeling\n\nInternational project development\n\nPreviously, I supported analytics at Marriott Bonvoy, directed marketing strategy at Tin A Co., Ltd, and coordinated EV infrastructure and investor relations at Thang Uy Group.\n\n\nInterests & Focus\n\nData Analytics & Visualization\n\nMachine Learning & Predictive Modeling\n\nSQL & ETL Pipelines\n\nCloud & Big Data\n\nBusiness Strategy & Entrepreneurship"
   }
 ]
