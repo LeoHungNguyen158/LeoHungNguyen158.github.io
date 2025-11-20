@@ -28,10 +28,10 @@ This website showcases my academic work, technical projects, professional experi
 
 Use the navigation bar above to explore:
 
-- **About You** – who I am, what I do  
-- **Projects** – hands-on analytics & machine learning projects  
-- **CV** – downloadable resume  
-- **Contact** – reach out or connect  
+- **About Me** : Who I am and what I do  
+- **Projects** : Over-view of my hands-on analytics & machine learning projects that I have done  
+- **CV**       : My downloadable resume  
+- **Contact**  : Ways to reach out or connect to me  
 
 </div>
 
