@@ -3,37 +3,42 @@ if (localStorage.getItem("dark-mode") === "enabled") {
     document.body.classList.add("dark");
 }
 
-// Toggle function
-document.getElementById("dark-toggle").onclick = function() {
+// Toggle dark mode
+document.addEventListener("DOMContentLoaded", () => {
+    const toggleBtn = document.getElementById("dark-toggle");
 
-    document.body.classList.toggle("dark");
+    if (toggleBtn) {
+        toggleBtn.onclick = function () {
+            document.body.classList.toggle("dark");
 
-    if (document.body.classList.contains("dark")) {
-        localStorage.setItem("dark-mode", "enabled");
-    } else {
-        localStorage.setItem("dark-mode", "disabled");
+            if (document.body.classList.contains("dark")) {
+                localStorage.setItem("dark-mode", "enabled");
+            } else {
+                localStorage.setItem("dark-mode", "disabled");
+            }
+        };
     }
-};
 
-// Back to top button
-const topBtn = document.createElement("div");
-topBtn.id = "backToTop";
-topBtn.innerHTML = "↑";
-document.body.appendChild(topBtn);
+    // Back-to-top button
+    const topBtn = document.createElement("div");
+    topBtn.id = "backToTop";
+    topBtn.innerHTML = "↑";
+    document.body.appendChild(topBtn);
 
-// Show button when scrolling
-window.onscroll = function () {
-    if (document.documentElement.scrollTop > 200) {
-        topBtn.style.display = "block";
-    } else {
-        topBtn.style.display = "none";
-    }
-};
-
-// Scroll to top
-topBtn.onclick = function () {
-    window.scrollTo({
-        top: 0,
-        behavior: "smooth"
+    // Show on scroll
+    window.addEventListener("scroll", () => {
+        if (document.documentElement.scrollTop > 200) {
+            topBtn.style.display = "block";
+        } else {
+            topBtn.style.display = "none";
+        }
     });
-};
+
+    // click to scroll to top
+    topBtn.onclick = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    };
+});
