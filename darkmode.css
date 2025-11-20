@@ -1,0 +1,90 @@
+/* ===================== */
+/* DARK MODE BASE LAYER  */
+/* ===================== */
+
+body.dark {
+    background-color: #0f1714;
+    color: #d9f5e5;
+}
+
+/* LINKS */
+body.dark a {
+    color: #69d3b5;
+}
+body.dark a:hover {
+    color: #97e8cf;
+}
+
+/* CONTENT BLOCKS */
+body.dark .content-block {
+    background: #14211d;
+    color: #d8f2e6;
+    box-shadow: 0 10px 24px rgba(0, 255, 200, 0.05);
+}
+
+/* PROJECT CARD */
+body.dark .project-card {
+    background: #14211d;
+    border: 1px solid rgba(0, 255, 200, 0.08);
+}
+body.dark .project-card:hover {
+    box-shadow: 0 12px 26px rgba(0, 255, 200, 0.2);
+}
+
+/* NAVBAR (Dark Emerald Gradient) */
+body.dark .navbar {
+    background: linear-gradient(to right, #0e3e34, #16624f);
+    border-bottom: 1px solid #0f2b25;
+}
+
+/* BUTTONS */
+body.dark .btn-primary,
+body.dark .project-btn {
+    background-color: #1fa57a;
+}
+body.dark .btn-primary:hover,
+body.dark .project-btn:hover {
+    background-color: #14885f;
+}
+
+/* DARK MODE TOGGLE BUTTON */
+.dark-toggle-btn {
+    background: none;
+    border: none;
+    font-size: 1.05rem;
+    color: inherit;
+    cursor: pointer;
+    padding: 6px 12px;
+    border-radius: 8px;
+}
+.dark-toggle-btn:hover {
+    background-color: rgba(255,255,255,0.1);
+}
+
+/* BACK TO TOP BUTTON */
+#backToTop {
+    position: fixed;
+    bottom: 28px;
+    right: 28px;
+    background-color: #2b6cb0;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+    transition: 0.3s;
+    font-size: 20px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.2);
+}
+
+#backToTop:hover {
+    background-color: #1a4d80;
+}
+
+/* DARK MODE VERSION OF BACK TO TOP */
+body.dark #backToTop {
+    background-color: #1fa57a;
+}
+body.dark #backToTop:hover {
+    background-color: #14885f;
+}

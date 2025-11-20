@@ -5,51 +5,109 @@ page-layout: full
 
 <br>
 
-<div class="content-block">
+# 📊 Selected Projects
 
-# 📊 Microbrewery Strategic & Quality Control Analysis
+Below is a collection of analytics and data-driven projects showcasing my technical, modeling, and business problem-solving skills.
 
-**Skills:** Python, Decision Trees, Monte Carlo Simulation, Linear Programming  
-- Built financial projections using decision tree models and risk-adjusted return scenarios.  
-- Ran **1,000+ Monte Carlo iterations** to simulate microchip defect rates and production variability.  
-- Applied **linear programming** to optimize brewing schedules and resource allocation.
+<div class="project-grid">
+
+<!-- === EAS PROJECT === -->
+<div class="project-card">
+
+### 🧠 Enterprise Analytics System (EAS) – BU Symposium 2024
+
+Designed an enterprise analytics architecture integrating **machine learning**, **blockchain**, and **cloud pipelines** to support SME digital transformation.
+
+**Badges:**  
+<span class="badge">ML Architecture</span>
+<span class="badge">Cloud</span>
+<span class="badge">Blockchain</span>
+<span class="badge">Enterprise Systems</span>
+
+**Key Contributions:**  
+- Designed ML-enabled data flow architecture  
+- Proposed blockchain auditing for data trust  
+- Integrated cloud-based model deployment concept
+
 </div>
 
-<div class="content-block">
+<!-- === MICROBREWERY PROJECT === -->
+<div class="project-card">
 
-# 🛳 Cruise Experience Segmentation & Conjoint Analysis
+### 🍺 Microbrewery Optimization & Financial Modeling
 
-**Skills:** Python, K-means, Conjoint Analysis, A/B Testing  
-- Segmented Caribbean cruise ports using k-means clustering.  
-- Built conjoint models to evaluate customer preference structures for luxury cruise features.  
-- Delivered segmentation-based product recommendations.
+Applied **Decision Trees**, **Monte Carlo Simulation (1,000+ iterations)**, and **Linear Programming** to optimize brewery production and improve ROI projections.
+
+**Badges:**  
+<span class="badge">Python</span>
+<span class="badge">Monte Carlo</span>
+<span class="badge">Decision Trees</span>
+<span class="badge">Optimization</span>
+
+**Highlights:**  
+- Modeled operational risk and uncertainty  
+- Built scenario-based financial projections  
+- Optimized capacity planning and scheduling
+
 </div>
 
-<div class="content-block">
+<!-- === NORTHWIND SQL PIPELINE === -->
+<div class="project-card">
 
-# 🧬 Pokémon Attribute & Cluster Analysis (AD699)
+### 🛒 Northwind SQL–Python Analytics Pipeline
 
-**Skills:** R, Hierarchical Clustering, Dendrograms  
-- Conducted attribute scaling and hierarchical clustering of Pokémon species.  
-- Built dendrograms to interpret natural grouping and combat-role patterns.
+Developed an analytics workflow using **SQL CTEs**, window functions, and **pandas automation** for forecasting and operational insights.
+
+**Badges:**  
+<span class="badge">SQL</span>
+<span class="badge">Python</span>
+<span class="badge">ETL</span>
+<span class="badge">Forecasting</span>
+
+**Highlights:**  
+- Built CTE chains for data transformation  
+- Automated reporting with Python scripts  
+- Delivered insights for inventory management
+
 </div>
 
-<div class="content-block">
+<!-- === AIRBNB PROJECT === -->
+<div class="project-card">
 
-# 🧠 Enterprise Analytics System (EAS) – BU Symposium 2024
+### 🏡 Airbnb Market Segmentation & Pricing Analysis
 
-**Skills:** Enterprise Architecture, AI Systems, Research Writing  
-- Proposed an enterprise analytics architecture integrating ML, blockchain, and scalable cloud frameworks.  
-- Addressed SME challenges in digital transformation.
+Performed segmentation and regression modeling to understand pricing behavior across Airbnb listings in Copenhagen.
+
+**Badges:**  
+<span class="badge">K-means</span>
+<span class="badge">Regression</span>
+<span class="badge">EDA</span>
+<span class="badge">Python</span>
+
+**Highlights:**  
+- Cleaned and analyzed large Airbnb dataset  
+- Built clustering models for listing segmentation  
+- Identified strongest predictors of price (Adj R² ≈ 0.57)
+
 </div>
 
-<div class="content-block">
+<!-- === CRUISE PROJECT === -->
+<div class="project-card">
 
-# 🛒 Northwind SQL–Python Data Pipeline
+### 🌊 Caribbean Cruise Experience Segmentation
 
-**Skills:** SQL (CTEs, Window Functions), Python (pandas), Data Visualization  
-- Built end-to-end analytics pipeline combining SQL and Python.  
-- Used CTEs and window functions for sales forecasting and segmentation.  
-- Automated reports using pandas & matplotlib.
+Applied **K-means clustering** to segment cruise ports and customer behaviors for itinerary and marketing strategy.
+
+**Badges:**  
+<span class="badge">K-means</span>
+<span class="badge">Clustering</span>
+<span class="badge">Visualization</span>
+
+**Highlights:**  
+- Clustered ports by amenities & location  
+- Segmented passenger patterns  
+- Delivered actionable marketing insights
+
 </div>
 
+</div> <!-- END GRID -->
