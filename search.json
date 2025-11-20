@@ -1,16 +1,86 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I am a Graduate student in Applied Business Analytics program in Boston University.\nThis website is a platform where I upload all of my projects that I participated in."
+    "text": "Below is a selection of academic and professional analytics projects that showcase my technical and business skill set.\n\n\n\nSkills: Python, Decision Trees, Monte Carlo Simulation, Linear Programming\n- Built financial projections using decision tree models, break-even analysis, and risk quantification.\n- Executed 1,000+ iteration Monte Carlo simulations to model microchip defect rates and quality control risks.\n- Applied linear programming to optimize production schedules, reduce operating costs, and increase expected ROI.\n- Developed a strategic launch plan for a Houston-based brewery with targeted marketing and operational alignment to seasonal demand.\n:contentReferenceoaicite:3\n\n\n\n\nSkills: Python, K-means clustering, Conjoint Analysis, A/B Testing\n- Conducted exploratory data analysis to uncover cruise industry trends and port visit behaviors.\n- Used K-means clustering to segment passenger demographics and identify target segments.\n- Performed conjoint analysis and A/B tests to evaluate feature preferences for luxury cruise experiences.\n:contentReferenceoaicite:4\n\n\n\n\nSkills: Regression, PCA, Clustering, Classification (NB, KNN, Decision Trees)\n- Cleaned and visualized thousands of Airbnb listings with geospatial mapping and pricing trend analysis.\n- Built regression models (Adjusted R² = 0.572) to identify key price drivers and support pricing recommendations.\n- Used PCA + K-means to segment listings and users; delivered insights for pricing strategy and value optimization.\n:contentReferenceoaicite:5\n\n\n\n\nSkills: Enterprise Architecture, AI/ML Systems, Blockchain Concepts\n- Conducted research on AI-enabled Enterprise Analytics Systems (EAS) for innovation and operational efficiency.\n- Proposed an enterprise architecture integrating ML, blockchain, and scalable data frameworks for SMEs.\n- Highlighted policy alignment, digital transformation strategies, and workforce development.\n:contentReferenceoaicite:6\n\n\n\n\nSkills: SQL (CTEs, Window Functions), Python (pandas), Matplotlib\n- Built an end-to-end analytics workflow combining production-level SQL with Python automation.\n- Used CTEs, ranking functions, and window functions to evaluate employee performance, monthly trends, and customer segments.\n- Automated feature engineering and forecasting workflows; generated insights for sales optimization and inventory planning.\n:contentReferenceoaicite:7"
+  },
+  {
+    "objectID": "projects.html#microbrewery-strategic-quality-control-analysis",
+    "href": "projects.html#microbrewery-strategic-quality-control-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Skills: Python, Decision Trees, Monte Carlo Simulation, Linear Programming\n- Built financial projections using decision tree models, break-even analysis, and risk quantification.\n- Executed 1,000+ iteration Monte Carlo simulations to model microchip defect rates and quality control risks.\n- Applied linear programming to optimize production schedules, reduce operating costs, and increase expected ROI.\n- Developed a strategic launch plan for a Houston-based brewery with targeted marketing and operational alignment to seasonal demand.\n:contentReferenceoaicite:3"
+  },
+  {
+    "objectID": "projects.html#cruise-industry-market-analysis",
+    "href": "projects.html#cruise-industry-market-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Skills: Python, K-means clustering, Conjoint Analysis, A/B Testing\n- Conducted exploratory data analysis to uncover cruise industry trends and port visit behaviors.\n- Used K-means clustering to segment passenger demographics and identify target segments.\n- Performed conjoint analysis and A/B tests to evaluate feature preferences for luxury cruise experiences.\n:contentReferenceoaicite:4"
+  },
+  {
+    "objectID": "projects.html#airbnb-market-analysis-copenhagen",
+    "href": "projects.html#airbnb-market-analysis-copenhagen",
+    "title": "Projects",
+    "section": "",
+    "text": "Skills: Regression, PCA, Clustering, Classification (NB, KNN, Decision Trees)\n- Cleaned and visualized thousands of Airbnb listings with geospatial mapping and pricing trend analysis.\n- Built regression models (Adjusted R² = 0.572) to identify key price drivers and support pricing recommendations.\n- Used PCA + K-means to segment listings and users; delivered insights for pricing strategy and value optimization.\n:contentReferenceoaicite:5"
+  },
+  {
+    "objectID": "projects.html#enterprise-analytics-system-bu-symposium-2024",
+    "href": "projects.html#enterprise-analytics-system-bu-symposium-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "Skills: Enterprise Architecture, AI/ML Systems, Blockchain Concepts\n- Conducted research on AI-enabled Enterprise Analytics Systems (EAS) for innovation and operational efficiency.\n- Proposed an enterprise architecture integrating ML, blockchain, and scalable data frameworks for SMEs.\n- Highlighted policy alignment, digital transformation strategies, and workforce development.\n:contentReferenceoaicite:6"
+  },
+  {
+    "objectID": "projects.html#northwind-sqlpython-analytics-pipeline",
+    "href": "projects.html#northwind-sqlpython-analytics-pipeline",
+    "title": "Projects",
+    "section": "",
+    "text": "Skills: SQL (CTEs, Window Functions), Python (pandas), Matplotlib\n- Built an end-to-end analytics workflow combining production-level SQL with Python automation.\n- Used CTEs, ranking functions, and window functions to evaluate employee performance, monthly trends, and customer segments.\n- Automated feature engineering and forecasting workflows; generated insights for sales optimization and inventory planning.\n:contentReferenceoaicite:7"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV\nClick here to download my CV (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My World",
+    "title": "Welcome",
     "section": "",
-    "text": "Warm Greetings To Everyone!\nWelcome to my Quarto website.\nI finished my Quarto Initial Setup."
+    "text": "Welcome to My Portfolio\nHi, I’m Leo Hung Nguyen, a graduate student in the Applied Business Analytics program at Boston University.\nUse the navigation bar to explore my background, projects, CV, and ways to connect."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\n\n📧 Email: hungtrung.nguyen95@gmail.com\n\n🌐 GitHub: https://github.com/LeoHungNguyen158"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Leo Hung Nguyen, a graduate student in Applied Business Analytics at Boston University.\n\n\n\nData Analytics\nMachine Learning\nCloud & Big Data\nBusiness Strategy\n\nEntrepreneurship\n\n\n\n\nMy goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Data Analytics\nMachine Learning\nCloud & Big Data\nBusiness Strategy\n\nEntrepreneurship"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to become a data-driven business analyst and eventually an entrepreneur who builds innovative tech-enabled businesses."
   }
 ]
