@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: "Leo Hung Trung Nguyen"
+  title: "Leo Hung Nguyen"
   navbar:
     left:
-      - text: "About Me"
+      - text: "About You"
         href: about.qmd
       - text: "Projects"
         href: projects.qmd
@@ -13,6 +13,9 @@ website:
         href: cv.qmd
       - text: "Contact"
         href: contact.qmd
+  page-footer:
+    left: "© 2025 Leo Hung Nguyen"
+    right: "Built with Quarto"
 
 format:
   html:
@@ -21,11 +24,4 @@ format:
     smooth-scroll: true
     page-layout: full
     css: styles.css
-
-website:
-  page-footer:
-    left: "© 2025 Leo Hung Nguyen"
-    right: "Built with Quarto"
-
-
 
