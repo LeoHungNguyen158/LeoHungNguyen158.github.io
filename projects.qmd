@@ -9,22 +9,43 @@ page-layout: full
 
 <div class="project-card">
 <h3>🍺 Microbrewery Strategic & Quality Control Analysis</h3>
-Built Monte Carlo simulations (1,000+ iterations), decision tree models, and linear programming frameworks to optimize production and financial ROI.
+<p>
+Designed a full launch strategy for a Houston microbrewery, integrating financial modeling, Monte Carlo simulations (1,000+ iterations), decision tree analysis, and linear programming to optimize capacity planning, reduce risk, and forecast a **15% ROI by year three**.  
+Applied hypergeometric and negative hypergeometric methods to evaluate microchip defect rates in automated brewing systems.
+</p>
 </div>
 
 <div class="project-card">
-<h3>🌊 Cruise Segmentation & Conjoint Analysis</h3>
-Segmented Caribbean cruise ports using K-Means and developed conjoint models to evaluate customer preferences for luxury amenities.
+<h3>🌊 Cruise Industry Market Analysis</h3>
+<p>
+Performed segmentation and targeting analysis for luxury cruise offerings using Python.  
+Applied **K-means clustering**, **conjoint analysis**, and **A/B testing** to analyze customer preferences and optimize feature prioritization, directly supporting product positioning and marketing strategy.
+</p>
 </div>
 
 <div class="project-card">
-<h3>🧠 Enterprise Analytics System — BU Symposium 2024</h3>
-Designed an enterprise analytics architecture integrating ML, cloud frameworks, and BI systems to support SME digital transformation.
+<h3>🧠 Enterprise Analytics System – BU Symposium 2024</h3>
+<p>
+Developed a research-backed Enterprise Analytics System (EAS) framework exploring how **AI, machine learning, cloud systems, and blockchain** enhance operational efficiency for SMEs and startups.  
+Presented actionable insights on scaling analytics capabilities, reducing process inefficiencies, and improving innovation readiness.
+</p>
 </div>
 
 <div class="project-card">
-<h3>🛒 Northwind SQL–Python Data Pipeline</h3>
-Built an end-to-end SQL → Python pipeline using CTEs, window functions, and pandas automation to generate forecasting and operational insights.
+<h3>🏡 Airbnb Market Analysis – Copenhagen</h3>
+<p>
+Prepared and analyzed Airbnb listing data using geospatial visualization, clustering, and regression modeling.  
+Built predictive pricing models (Adjusted R² = **0.572**), identified key price drivers, and segmented users using PCA, K-means, Naïve Bayes, KNN, and Decision Trees to support pricing strategy and value perception improvement.
+</p>
+</div>
+
+<div class="project-card">
+<h3>🛒 Northwind SQL–Python Analytics Pipeline</h3>
+<p>
+Executed an end-to-end production-grade analytics workflow using SQL CTEs, window functions, and Python automation.  
+Ranked sales performance, forecasted seasonal demand, segmented high-value customers, and produced boardroom-ready visuals to support inventory and campaign planning.
+</p>
 </div>
 
 </div>
+

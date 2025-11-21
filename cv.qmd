@@ -27,26 +27,35 @@ page-layout: full
 
 # 💼 Experience
 
-### **Teaching Assistant – AD599 Python & SQL**  
-Boston University  
-- Support 70+ graduate students in Python, SQL, and data modeling  
-- Grade coursework and assist with analytical workflow design  
+### **Teaching Assistant – AD599 Python & SQL for Business Analytics**  
+**Boston University** (Sept 2025–Present)  
+- Support 70+ graduate students in Python scripting, SQL querying, and data modeling labs.  
+- Grade assignments and clarify technical concepts such as loops, conditionals, joins, and analytical workflows.  
+- Collaborate with the professor to refine instructional materials and evaluate analytics projects.
+
+---
 
 ### **Digital Marketing Director – Tin A Co., Ltd**  
-Ho Chi Minh City, Vietnam  
-- Led data-driven market entry strategy  
-- Improved targeting accuracy by 20%  
-- Coordinated 7+ international shipments per month  
+Ho Chi Minh City, Vietnam (Mar 2024–Mar 2025)  
+- Led international market-entry strategies across renewable energy and healthcare technology sectors, improving targeting accuracy by **20%** using data-driven segmentation.  
+- Streamlined logistics for **7+ import/export shipments per month**, enhancing operational efficiency and compliance.  
+- Secured **5 new partnership contracts** by conducting market research and coordinating cross-industry initiatives.  
 
-### **Data Analyst – Finance, Marriott Bonvoy**  
-Ho Chi Minh City, Vietnam  
-- Designed financial models and revenue forecasts  
-- Automated Excel/VBA workflows  
-- Reduced inventory discrepancies by 5%  
+---
 
-### **Marketing & Project Development – Thang Uy Group**  
-- Conducted EV infrastructure research  
-- Supported investor relations & business expansion  
+### **Data Analyst – Finance Department – Marriott Bonvoy Renaissance Riverside**  
+Ho Chi Minh City, Vietnam (Mar 2022–Jul 2023)  
+- Contributed to **~20% quarterly revenue uplift** through cost-trend modeling and financial forecasting.  
+- Automated **10+ reporting workflows** using VBA, pivot tables, and advanced Excel, saving 3 hours per week.  
+- Improved inventory accuracy by **5%** by supporting cross-department audit initiatives.  
+
+---
+
+### **Marketing & Project Development Coordinator – Thang Uy Group**  
+Ho Chi Minh City, Vietnam (Mar 2021–Mar 2022)  
+- Conducted industry research to support EV infrastructure development and strategic market planning.  
+- Supported early-stage investor engagement for electric scooter launch, engaging **5 potential investors**.  
+- Facilitated multinational business partnerships with firms in Singapore, Korea, and Israel.  
 
 </div>
 
@@ -55,8 +64,8 @@ Ho Chi Minh City, Vietnam
 # 🛠 Technical Skills
 
 **Languages:** Python, R, SQL  
-**Databases:** MySQL, SQLite, BigQuery  
-**Tools:** Power BI, Tableau, Jupyter, RStudio, Excel VBA  
-**Techniques:** Forecasting, Classification, Optimization, ETL Automation  
+**Databases:** MySQL, SQLite, Google BigQuery  
+**Tools:** Power BI, Tableau, RStudio, Jupyter Notebook, Excel (PivotTables, VBA, Solver)  
+**Capabilities:** Data Visualization, ETL Automation, Forecasting, Classification, Optimization, Business Modeling  
 
 </div>

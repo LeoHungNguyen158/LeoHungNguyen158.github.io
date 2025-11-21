@@ -7,11 +7,13 @@ page-layout: full
 
 <div class="content-block">
 
-# About Me
+I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at Boston University, where I specialize in transforming complex data into clear, actionable insights for business leaders. My analytical approach combines technical depth with strong business intuition, shaped by hands-on experience across data analytics, digital marketing, financial modeling, and international project development.
 
-I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at Boston University with a passion for data, problem-solving, and strategic decision-making.
+I also serve as a **Teaching Assistant for AD599: Python & SQL for Business Analytics**, supporting more than 70 graduate students in mastering programming fundamentals, SQL querying, and analytical problem-solving. This role strengthens my technical foundation, communication skills, and ability to guide others through complex workflows.
 
-My focus is on applying machine learning, analytics engineering, and business intelligence to help organizations make smarter, data-driven decisions.
+Before pursuing analytics full-time, I directed market entry and digital strategy at **Tin A Co., Ltd**, managing cross-border campaigns across renewable energy, healthcare tech, and global trade. I also worked as a **Data Analyst** at **Marriott Bonvoy Renaissance Riverside**, developing automated financial reporting systems, improving data integrity, and contributing to revenue optimization initiatives. Earlier, at **Thang Uy Group**, I supported EV infrastructure analysis, investor engagement, and international expansion projects.
+
+Today, my work focuses on blending **machine learning, analytics engineering, cloud analytics, and business strategy** to help organizations make smarter, data-driven decisions. I’m especially passionate about analytics applications in operations, pricing, customer segmentation, and technology-driven market expansion.
 
 </div>
 
