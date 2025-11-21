@@ -5,7 +5,9 @@ website:
   title: "Leo Hung Nguyen"
   navbar:
     left:
-      - text: "About Me"
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
         href: about.qmd
       - text: "Projects"
         href: projects.qmd
@@ -14,18 +16,19 @@ website:
       - text: "Contact"
         href: contact.qmd
     right:
-      - icon: linkedin
-        href: "https://www.linkedin.com/in/trung-hung-nguyen-111593253/"
       - icon: github
         href: "https://github.com/LeoHungNguyen158"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/trung-hung-nguyen-111593253/"
 
   page-footer:
     left: "© 2025 Leo Hung Nguyen — Boston, MA"
-    right: "Built with Quarto • Designed with precision and clarity"
+    right: "Built with Quarto • Designed for clarity and impact"
 
 format:
   html:
     theme: lux
+    toc: false
     smooth-scroll: true
     page-layout: full
     css: styles.css

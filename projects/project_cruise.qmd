@@ -1,0 +1,138 @@
+---
+title: "Cruise Market Segmentation & Conjoint Analysis"
+page-layout: full
+---
+
+<!-- HERO -->
+<div class="hero-box fade-up">
+
+# 🌊 Cruise Market Segmentation & Conjoint Analysis  
+### Customer Insights • Preference Modeling • Strategic Targeting
+
+A full analytical study combining **K-means clustering**, **conjoint analysis**, and **behavioral segmentation** to optimize product positioning and marketing strategy for the Caribbean cruise market.
+
+</div>
+
+<br>
+
+<!-- EXEC SUMMARY -->
+<div class="content-block fade-up">
+
+# 📌 Executive Summary
+
+This project analyzes **customer behavior, preferences, and value drivers** within the Caribbean cruise industry.  
+Using marketing analytics and machine learning techniques, we segmented passengers, identified high-value clusters, and evaluated consumer preferences for cruise amenities and voyage features.
+
+The analysis enabled:
+
+- Identification of distinct **customer personas**  
+- Prioritization of **high-margin voyage features**  
+- Measurement of customer value through conjoint utilities  
+- Insights for optimizing **pricing, promotions, and product design**
+
+This is a strong example of applying data science to real-world marketing strategy.
+
+</div>
+
+<br>
+
+<!-- METHODS -->
+<div class="content-block fade-up">
+
+# 🔧 Methods & Techniques
+
+### **Clustering & Segmentation**
+- K-means clustering  
+- PCA dimensionality reduction  
+- Behavioral grouping  
+- Pattern recognition across voyage attributes  
+
+### **Conjoint Analysis**
+- Utility scoring  
+- Preference estimation  
+- Attribute importance ranking  
+- Market choice simulation  
+
+### **A/B Test Framework**
+- Comparative variant testing  
+- Conversion uplift measurement  
+- Feature prioritization  
+
+### **Supporting Analytics**
+- Exploratory data analysis (EDA)  
+- Visualization & insight narrative  
+- Market segmentation logic  
+
+</div>
+
+<br>
+
+<!-- SEGMENT INSIGHTS -->
+<div class="content-block fade-up">
+
+# 👥 Segment Profiles
+
+Based on analysis, the cruise market was segmented into strategic personas:
+
+### **1. Value-Focused Travelers**  
+- Price sensitive  
+- Prefer shorter voyages  
+- Budget cabins, essential amenities  
+
+### **2. Premium Leisure Seekers**  
+- Mid-to-high willingness to pay  
+- Prefer upgraded rooms & premium dining  
+- Respond well to bundled packages  
+
+### **3. Experience Maximizers**
+- Prioritize premium excursions  
+- Seek longer voyages  
+- High relevance for luxury add-ons  
+
+### **4. Family & Multi-Guest Groups**
+- Need multi-room accommodations  
+- Value convenience features  
+- Respond to child-friendly amenities  
+
+These personas form the basis for targeted marketing and product differentiation.
+
+</div>
+
+<br>
+
+<!-- BUSINESS IMPACT -->
+<div class="content-block fade-up">
+
+# 💼 Business Impact
+
+The project provided actionable recommendations for:
+
+- **Pricing strategy** based on willingness-to-pay  
+- **Voyage design** optimized for segment preferences  
+- **Promotional targeting** for high-margin customer groups  
+- **Product bundling** aligned with attribute utilities  
+- **Upsell pathways** that improve revenue per guest  
+
+These insights can significantly improve booking conversions, customer satisfaction, and long-term profitability.
+
+</div>
+
+<br>
+
+<!-- FILE DOWNLOAD -->
+<div class="content-block fade-up">
+
+# 📎 Project File
+
+Download the full Cruise Segmentation & Conjoint Analysis project below:
+
+[📥 Download Cruise Project (PDF)]("/mnt/data/TeamUrsula_AD654_SemesterProject.ipynb - Colab.pdf"){.btn .btn-primary}
+
+</div>
+
+<br>
+
+<!-- BACK BUTTON -->
+<div style="text-align:center; margin-top:30px;" class="fade-up">
+  <a href="../projects.qmd" class="project-btn">⬅ Back to Projects</a>
+</div>

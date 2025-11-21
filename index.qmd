@@ -1,29 +1,50 @@
 ---
-title: "Welcome"
+title: "Home"
 page-layout: full
 ---
 
-<div class="hero-box">
+<!-- HERO SECTION -->
+<div class="hero-box fade-up">
 
-# 👋 Hi, I'm **Leo Hung Nguyen**
+# I Turn Complex Data Into **Clarity**, **Confidence**, and **Competitive Advantage**
 
-### Data Analyst • Business Analytics • Machine Learning • SQL Developer
+### Data Analyst • Business Analytics • Machine Learning • Strategy
 
-Turning data into strategy, insight, and results.
+Transforming raw data into insights that help organizations make smarter, faster, and more informed decisions.
 
 </div>
 
-<div class="content-block">
+
+<!-- INTRO SECTION -->
+<div class="content-block fade-up">
 
 # Welcome to My Portfolio
 
-This portfolio showcases my analytics projects, technical capabilities, and professional experience as a graduate student in **Applied Business Analytics at Boston University**.
+Thank you for visiting my professional analytics portfolio.  
+I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at **Boston University**, specializing in:
 
-Use the navigation bar above to explore:
+- Predictive Modeling & Machine Learning  
+- Data Engineering & ETL Pipelines  
+- Business Intelligence & Decision Science  
+- SQL + Python Analytics Workflows  
+- Operations, Risk, and Market Analysis  
 
-- **About Me** : My background & career focus  
-- **Projects** : My hands-on analytics & ML work  
-- **CV**       : My complete résumé  
-- **Contact**  : Ways to reach me  
+Across my academic and professional journey, I’ve tackled real-world problems in:
+
+- Hospitality finance  
+- International marketing  
+- Renewable energy & EV tech  
+- Healthcare technology  
+- Supply chain & logistics  
+- Consumer behavior analytics  
+
+This site showcases a curated selection of my strongest analytics projects, each combining **technical modeling** with **business impact**.
+
+Use the navigation bar to explore:
+
+- **About**     My background & experience  
+- **Projects**  Interactive case-study pages  
+- **CV**        Full résumé  
+- **Contact**   Get in touch  
 
 </div>

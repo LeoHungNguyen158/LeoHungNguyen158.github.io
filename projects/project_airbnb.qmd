@@ -1,0 +1,118 @@
+---
+title: "Airbnb Market Pricing & Predictive Modeling"
+page-layout: full
+---
+
+<!-- HERO -->
+<div class="hero-box fade-up">
+
+# 🏡 Airbnb Market Pricing & Predictive Modeling  
+### Machine Learning • Regression • Clustering • Geospatial Analytics
+
+A full statistical and machine learning analysis of the Airbnb market in Copenhagen, identifying key drivers of price, segmenting listings, and predicting price behavior using supervised and unsupervised learning methods.
+
+</div>
+
+<br>
+
+<!-- EXEC SUMMARY -->
+<div class="content-block fade-up">
+
+# 📌 Executive Summary
+
+This project analyzes Airbnb listing data from Copenhagen using a blend of **predictive modeling, clustering, and classification methods**.  
+The primary goals were to:
+
+- Identify **key price drivers**  
+- Build a **predictive regression model**  
+- Segment listings using **PCA + K-Means**  
+- Classify property types using **Naïve Bayes, KNN, and Decision Trees**  
+- Provide **data-driven recommendations** for hosts and investors  
+
+The final regression model achieved an **Adjusted R² of 0.572**, indicating strong explanatory power relative to typical real-estate datasets.
+
+</div>
+
+<br>
+
+<!-- METHODS -->
+<div class="content-block fade-up">
+
+# 🔧 Methods & Techniques
+
+### **Predictive Modeling**
+- Multiple Linear Regression  
+- Feature Selection  
+- Multicollinearity Analysis  
+- Residual Diagnostics  
+
+### **Clustering & Segmentation**
+- PCA dimensionality reduction  
+- K-Means Clustering  
+- Cluster profiling & heatmaps  
+
+### **Classification Models**
+- Naïve Bayes  
+- K-Nearest Neighbors (KNN)  
+- Decision Tree Classifier  
+- Confusion matrix & accuracy evaluation  
+
+### **Geospatial Analysis**
+- Mapping price distribution across Copenhagen  
+- Identifying high-value geographic clusters  
+
+</div>
+
+<br>
+
+<!-- KEY INSIGHTS -->
+<div class="content-block fade-up">
+
+# 🔍 Key Insights
+
+### 🏷️ 1. Price Drivers Identified  
+The strongest predictors of price included:  
+- Room type  
+- Number of guests  
+- Location coordinates  
+- Host rating  
+- Cleaning fee  
+- Property size  
+
+### 🧩 2. Clustered Listing Profiles  
+Using PCA + K-Means, three main clusters emerged:  
+- **Budget Listings** – small units, lower review scores  
+- **Standard Listings** – mid-tier price & amenities  
+- **Premium Listings** – large accommodations, strong ratings  
+
+### 🎯 3. Classification Accuracy  
+Among classification methods tested, **Decision Tree** achieved the best balance of accuracy and interpretability.
+
+### 💡 4. Business Recommendations  
+- Hosts can optimize revenue by adjusting price in line with identified predictors  
+- Investors can target neighborhoods with highest value-to-cost ratio  
+- Airbnb could implement cluster-based recommendation engines  
+
+</div>
+
+<br>
+
+<!-- FILE DOWNLOADS -->
+<div class="content-block fade-up">
+
+# 📎 Project Files
+
+### 📄 Full Report (PDF)  
+[📥 Download PDF]("/mnt/data/AD 699_Group Project_Final.pdf"){.btn .btn-primary}
+
+### 🌐 HTML Report (Interactive)  
+[📥 Open HTML Version]("/mnt/data/AD-699_-Group-Project_Final.html"){.btn .btn-primary}
+
+</div>
+
+<br>
+
+<!-- BACK BUTTON -->
+<div style="text-align:center; margin-top:30px;" class="fade-up">
+  <a href="../projects.qmd" class="project-btn">⬅ Back to Projects</a>
+</div>

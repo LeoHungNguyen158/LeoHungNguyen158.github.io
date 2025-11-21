@@ -1,71 +1,91 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 page-layout: full
 ---
 
-<div class="content-block">
+<div class="content-block fade-up">
 
 # 📄 Curriculum Vitae
 
-[📥 **Download My Resume (PDF)**](cv/Leo_Nguyen_Resume.pdf){.btn .btn-primary}
+You can download my full résumé below:
+
+[📥 Download Resume (PDF)](cv/Leo_Nguyen_Resume.pdf){.btn .btn-primary}
 
 </div>
 
-<div class="content-block">
+
+<div class="content-block fade-up">
 
 # 🎓 Education
 
-**Boston University – Metropolitan College**  
-*M.S. Applied Business Analytics (Expected Jan 2026)*
+### **Boston University — Metropolitan College (Boston, MA)**  
+**M.S. in Applied Business Analytics**  
+*Expected January 2026*  
+Relevant Coursework:  
+- Data Mining  
+- Cloud Analytics  
+- Python & SQL  
+- Marketing Analytics  
+- Enterprise Risk Analytics  
+- Decision-Making & Operations  
 
-**University of Technology Sydney (UTS)**  
-*Master of Property Development & Project Management*
+---
+
+### **University of Technology Sydney (Sydney, Australia)**  
+**Master of Property Development & Project Management (2019–2024)**  
+Relevant Coursework:  
+- Advances in Project Management  
+- Project Risk & Procurement  
+- Quality Management  
 
 </div>
 
-<div class="content-block">
+
+<div class="content-block fade-up">
 
 # 💼 Experience
 
-### **Teaching Assistant – AD599 Python & SQL for Business Analytics**  
-**Boston University** (Sept 2025–Present)  
-- Support 70+ graduate students in Python scripting, SQL querying, and data modeling labs.  
-- Grade assignments and clarify technical concepts such as loops, conditionals, joins, and analytical workflows.  
-- Collaborate with the professor to refine instructional materials and evaluate analytics projects.
+### **Teaching Assistant — AD599 Python & SQL for Business Analytics**  
+**Boston University** | Sept 2025 – Present  
+- Support 70+ graduate students with Python scripting, SQL querying, and data modeling labs  
+- Grade assignments and guide students through loops, joins, and analytic logic  
+- Assist instructors with project evaluation and course content refinement  
 
 ---
 
-### **Digital Marketing Director – Tin A Co., Ltd**  
-Ho Chi Minh City, Vietnam (Mar 2024–Mar 2025)  
-- Led international market-entry strategies across renewable energy and healthcare technology sectors, improving targeting accuracy by **20%** using data-driven segmentation.  
-- Streamlined logistics for **7+ import/export shipments per month**, enhancing operational efficiency and compliance.  
-- Secured **5 new partnership contracts** by conducting market research and coordinating cross-industry initiatives.  
+### **Digital Marketing Director — Tin A Co., Ltd**  
+**Ho Chi Minh City, Vietnam** | Mar 2024 – Mar 2025  
+- Led international market-entry and marketing strategies across renewable energy, healthcare tech, and consumer sectors  
+- Improved targeting accuracy through segmentation  
+- Streamlined logistics for 7+ monthly import/export operations  
+- Secured 5+ partnerships across Asia, Australia, and North America  
 
 ---
 
-### **Data Analyst – Finance Department – Marriott Bonvoy Renaissance Riverside**  
-Ho Chi Minh City, Vietnam (Mar 2022–Jul 2023)  
-- Contributed to **~20% quarterly revenue uplift** through cost-trend modeling and financial forecasting.  
-- Automated **10+ reporting workflows** using VBA, pivot tables, and advanced Excel, saving 3 hours per week.  
-- Improved inventory accuracy by **5%** by supporting cross-department audit initiatives.  
+### **Data Analyst — Finance Department**  
+**Marriott Bonvoy Renaissance Riverside** | Mar 2022 – Jul 2023  
+- Supported cost modeling and financial forecasting contributing to quarterly revenue uplift  
+- Automated 10+ recurring reporting workflows using Excel VBA & PivotTables  
+- Improved inventory accuracy by supporting cross-department audit initiatives  
 
 ---
 
-### **Marketing & Project Development Coordinator – Thang Uy Group**  
-Ho Chi Minh City, Vietnam (Mar 2021–Mar 2022)  
-- Conducted industry research to support EV infrastructure development and strategic market planning.  
-- Supported early-stage investor engagement for electric scooter launch, engaging **5 potential investors**.  
-- Facilitated multinational business partnerships with firms in Singapore, Korea, and Israel.  
+### **Marketing & Project Development — Thang Uy Group**  
+**Ho Chi Minh City, Vietnam** | Mar 2021 – Mar 2022  
+- Conducted market and competitor research for EV infrastructure expansion  
+- Assisted in investor engagement for early-phase EV initiatives  
+- Facilitated multinational partnerships across Singapore, Korea, and Israel  
 
 </div>
 
-<div class="content-block">
+
+<div class="content-block fade-up">
 
 # 🛠 Technical Skills
 
 **Languages:** Python, R, SQL  
 **Databases:** MySQL, SQLite, Google BigQuery  
-**Tools:** Power BI, Tableau, RStudio, Jupyter Notebook, Excel (PivotTables, VBA, Solver)  
-**Capabilities:** Data Visualization, ETL Automation, Forecasting, Classification, Optimization, Business Modeling  
+**Tools:** Power BI, Tableau, RStudio, Jupyter, Excel (VBA, Solver, PivotTables)  
+**Strengths:** Predictive Modeling, Data Cleaning, ETL Automation, Forecasting, Optimization, Visualization
 
 </div>

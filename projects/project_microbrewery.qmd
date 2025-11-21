@@ -1,0 +1,109 @@
+---
+title: "Microbrewery Strategic & Quality Control Analysis"
+page-layout: full
+---
+
+<!-- HERO -->
+<div class="hero-box fade-up">
+
+# 🍺 Microbrewery Strategic & Quality Control Analysis  
+### Operations Optimization • Risk Modeling • Decision Analytics
+
+A comprehensive analytics project combining financial modeling, Monte Carlo simulation, decision trees, linear programming, and risk assessment to evaluate the feasibility and production strategy of launching a microbrewery in Houston, Texas.
+
+</div>
+
+<br>
+
+<!-- EXEC SUMMARY -->
+<div class="content-block fade-up">
+
+# 📌 Executive Summary
+
+This project evaluates the launch strategy of a Houston-based microbrewery through a robust combination of **quantitative modeling**, **risk simulation**, and **operational optimization**.  
+Using data-driven decision frameworks, we assessed demand variability, defect rates, seasonal production cycles, and financial outcomes.
+
+Key analytical components include:
+
+- **Monte Carlo Simulation (1,000+ iterations)** to evaluate risk and uncertainty in brewing output  
+- **Decision Tree Analysis** to analyze strategic production alternatives  
+- **Linear Programming Optimization** for production scheduling and ingredient allocation  
+- **Break-even and Profitability Modeling** for investment feasibility  
+- **Hypergeometric Distribution** for defect rate evaluation in microchip quality testing  
+
+This integrated approach resulted in a projected **15% ROI by Year 3**, with enhanced visibility into risks, operational constraints, and market positioning.
+
+</div>
+
+<br>
+
+<!-- METHODS -->
+<div class="content-block fade-up">
+
+# 🔧 Methods & Techniques
+
+### **Simulation & Risk**
+- Monte Carlo Simulation  
+- Scenario Modeling  
+- Hypergeometric Quality Control Tests  
+
+### **Optimization**
+- Linear Programming (LP) for production planning  
+- Constraint-based scheduling  
+
+### **Financial Modeling**
+- Break-even analysis  
+- Revenue projections  
+- Cost modeling  
+
+### **Decision Frameworks**
+- Decision Trees  
+- Sensitivity Analysis  
+
+</div>
+
+<br>
+
+<!-- BUSINESS IMPACT -->
+<div class="content-block fade-up">
+
+# 💼 Business Impact
+
+This analysis provided a clear assessment of:
+
+- Optimal production volumes  
+- Inventory control for seasonal demand  
+- Minimizing operational losses due to microchip defects  
+- Investment feasibility for microbrewery launch  
+- Risk-adjusted financial planning  
+
+The combination of simulation, optimization, and forecasting led to a defensible, data-backed investment strategy for the microbrewery’s launch.
+
+</div>
+
+<br>
+
+<!-- FILE DOWNLOADS -->
+<div class="content-block fade-up">
+
+# 📎 Project Files
+
+Click below to access the original project deliverables.
+
+### 📊 Main Presentation (PPTX)  
+[📥 Download Presentation]( "/mnt/data/AD 715 - Group 3 - MICRO-BREWERY- BUSINESS REPORT - PRESENTATION.pptx" ){.btn .btn-primary}
+
+### 📝 Report Part 1 (DOCX)  
+[📥 Download Report Part 1]( "/mnt/data/Team3_TTP_Part 1.docx" ){.btn .btn-primary}
+
+### 📝 Report Part 2 (DOCX)  
+[📥 Download Report Part 2]( "/mnt/data/TTP2.docx" ){.btn .btn-primary}
+
+</div>
+
+<br>
+
+<!-- BACK BUTTON -->
+<div style="text-align:center; margin-top:30px;" class="fade-up">
+  <a href="../projects.qmd" class="project-btn">⬅ Back to Projects</a>
+</div>

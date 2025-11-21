@@ -3,43 +3,69 @@ title: "About Me"
 page-layout: full
 ---
 
-<img src="Leo.jpg" class="profile-photo">
+<!-- PROFILE PHOTO -->
+<div style="text-align:center; margin-top: 20px;">
+  <img src="assets/images/Leo.jpg" 
+       alt="Leo Hung Nguyen" 
+       style="width:220px; height:220px; border-radius:14px; object-fit:cover; box-shadow:0px 10px 28px rgba(0,0,0,0.18);" 
+       class="fade-up">
+</div>
 
-<div class="content-block">
+<br>
 
-I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at Boston University, where I specialize in transforming complex data into clear, actionable insights for business leaders. My analytical approach combines technical depth with strong business intuition, shaped by hands-on experience across data analytics, digital marketing, financial modeling, and international project development.
+<div class="content-block fade-up">
 
-I also serve as a **Teaching Assistant for AD599: Python & SQL for Business Analytics**, supporting more than 70 graduate students in mastering programming fundamentals, SQL querying, and analytical problem-solving. This role strengthens my technical foundation, communication skills, and ability to guide others through complex workflows.
+# Hi, I'm **Leo Hung Nguyen**
 
-Before pursuing analytics full-time, I directed market entry and digital strategy at **Tin A Co., Ltd**, managing cross-border campaigns across renewable energy, healthcare tech, and global trade. I also worked as a **Data Analyst** at **Marriott Bonvoy Renaissance Riverside**, developing automated financial reporting systems, improving data integrity, and contributing to revenue optimization initiatives. Earlier, at **Thang Uy Group**, I supported EV infrastructure analysis, investor engagement, and international expansion projects.
+I’m a graduate student in **Applied Business Analytics at Boston University**, specializing in predictive modeling, data engineering, machine learning, and analytical strategy. My work focuses on transforming messy, complex datasets into insights that enable better decision-making and measurable business impact.
 
-Today, my work focuses on blending **machine learning, analytics engineering, cloud analytics, and business strategy** to help organizations make smarter, data-driven decisions. I’m especially passionate about analytics applications in operations, pricing, customer segmentation, and technology-driven market expansion.
+I’m also a **Teaching Assistant for AD599: Python & SQL for Business Analytics**, where I support 70+ graduate students in mastering Python scripting, SQL querying, analytical workflows, and problem-solving techniques. This role has strengthened my communication, technical depth, and ability to guide others through complex analytical challenges.
 
 </div>
 
-<div class="content-block">
+
+<div class="content-block fade-up">
 
 # Professional Background
 
-I bring cross-functional experience across:
+I bring hands-on experience across **data analytics, financial modeling, marketing strategy, and international business development**, along with strong problem-solving capabilities developed across multiple industries.
 
-- Data analytics  
-- Digital marketing  
-- Financial modeling  
-- International project development  
+### **Digital Marketing Director – Tin A Co., Ltd (HCMC, Vietnam)**  
+I led data-driven marketing and international trade strategies across renewable energy, healthcare tech, automotive, and food sectors.  
+- Improved targeting accuracy through segmentation  
+- Managed 7+ monthly import/export operations  
+- Secured partnerships across Asia, Australia & North America  
 
-Previously, I supported analytics at **Marriott Bonvoy**, directed marketing strategy at **Tin A Co., Ltd**, and coordinated EV infrastructure and investor relations at **Thang Uy Group**.
+### **Data Analyst – Marriott Bonvoy Renaissance Riverside (Finance Department)**  
+I conducted cost modeling, automated financial reporting, and improved audit accuracy through analytics.  
+- Reduced reporting errors  
+- Automated 10+ workflows  
+- Supported revenue optimization initiatives  
+
+### **Marketing & Project Development – Thang Uy Group**  
+I performed market research, investor outreach, and partnership alignment for EV infrastructure development across Singapore, Korea, Israel, and Vietnam.
 
 </div>
 
-<div class="content-block">
+
+<div class="content-block fade-up">
 
 # Interests & Focus
 
-- Data Analytics & Visualization  
-- Machine Learning & Predictive Modeling  
-- SQL & ETL Pipelines  
-- Cloud & Big Data  
-- Business Strategy & Entrepreneurship  
+- Predictive Modeling & Machine Learning  
+- SQL Pipelines & ETL Automation  
+- Business Intelligence & Visualization  
+- Operations & Financial Analytics  
+- Market Analysis & Strategy  
+- Cloud Technologies & Scalable Analytics  
+
+</div>
+
+
+<div class="content-block fade-up">
+
+# Personal Side
+
+Outside of analytics, I enjoy exploring food spots, traveling, creating mechanical keyboards, watching basketball, and discovering ideas at the intersection of strategy, business, and technology.
 
 </div>

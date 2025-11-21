@@ -1,0 +1,122 @@
+---
+title: "Northwind SQL → Python Analytics Pipeline"
+page-layout: full
+---
+
+<!-- HERO -->
+<div class="hero-box fade-up">
+
+# 🛒 Northwind SQL → Python Analytics Pipeline  
+### Data Engineering • Forecasting • Clustering • ETL Automation
+
+An end-to-end analytics workflow built with SQL, Python, forecasting models, and customer segmentation techniques using the classic Northwind database.
+
+</div>
+
+<br>
+
+<!-- EXEC SUMMARY -->
+<div class="content-block fade-up">
+
+# 📌 Executive Summary
+
+This project demonstrates a complete business analytics pipeline, combining:
+
+- **Advanced SQL queries** (CTEs, window functions, subqueries)  
+- **ETL data processing in Python**  
+- **Exploratory Data Analysis (EDA)**  
+- **ARIMA Forecasting** for monthly sales  
+- **Customer Clustering (K-Means / RFM)**  
+- **Business insights for inventory, performance, and marketing**
+
+The project replicates a real-world analytics environment, showcasing an analyst’s ability to work across data extraction, transformation, modeling, and final recommendation delivery.
+
+</div>
+
+<br>
+
+<!-- METHODS -->
+<div class="content-block fade-up">
+
+# 🔧 Methods & Techniques
+
+### **SQL Engineering**
+- Common Table Expressions (CTEs)  
+- Window functions (ROW_NUMBER, RANK, PARTITION BY)  
+- Aggregation & joins across multiple tables  
+- Performance ranking  
+- Time-series SQL transformations  
+
+### **Python ETL & Analytics**
+- Data cleaning & preprocessing  
+- Merging SQL extracts  
+- Pandas-based automation  
+- Visual analytics  
+
+### **Forecasting**
+- ARIMA model  
+- AIC-based model selection  
+- Forecast visualization  
+- Seasonality & trend decomposition  
+
+### **Customer Segmentation**
+- RFM scoring  
+- K-means clustering  
+- Cluster interpretation & profiling  
+- Customer lifetime value insights  
+
+</div>
+
+<br>
+
+<!-- KEY INSIGHTS -->
+<div class="content-block fade-up">
+
+# 🔍 Key Insights
+
+### 🧮 1. Employee Sales Performance
+SQL window functions revealed top-performing employees and efficiency gaps across product lines.
+
+### 📦 2. Category-Level Insights
+CTEs showed strong seasonality across top-selling product categories.
+
+### 📈 3. Sales Forecasting
+ARIMA projections indicated steady growth trends, enabling improved inventory and supply planning.
+
+### 👥 4. Customer Segmentation
+RFM + K-means clustering identified:
+- **High-value repeat customers**  
+- **Seasonal bulk buyers**  
+- **At-risk customers** who could be targeted for retention campaigns  
+
+### 💡 5. Strategic Recommendations
+- Improve targeting for high-value segments  
+- Adjust inventory cycles around forecasted peaks  
+- Increase visibility for high-margin categories  
+
+</div>
+
+<br>
+
+<!-- DOWNLOADS -->
+<div class="content-block fade-up">
+
+# 📎 Project Files
+
+### 📝 Phase 1 Report (DOCX)
+[📥 Download Phase 1]("/mnt/data/Writing Report_Final Project Phase 1_Hung Trung Nguyen_U89837429_AD599S B1.docx"){.btn .btn-primary}
+
+### 📘 Phase 2 Analysis (PDF)
+[📥 Download Phase 2 (Model Output)]("/mnt/data/AD 599S FINAL PROJECT PHASE 2_ HUNG TRUNG NGUYEN_U89837429.ipynb - Colab.pdf"){.btn .btn-primary}
+
+### 🎤 Presentation (PPTX)
+[📥 Download Final Presentation]("/mnt/data/Final Project_Hung Trung Nguyen_U898374.pptx"){.btn .btn-primary}
+
+</div>
+
+<br>
+
+<!-- BACK BUTTON -->
+<div style="text-align:center; margin-top:30px;" class="fade-up">
+  <a href="../projects.qmd" class="project-btn">⬅ Back to Projects</a>
+</div>

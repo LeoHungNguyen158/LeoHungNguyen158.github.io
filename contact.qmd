@@ -3,19 +3,31 @@ title: "Contact"
 page-layout: full
 ---
 
-<div class="content-block">
+<div class="content-block fade-up">
 
-# 📬 Get In Touch
+# 📬 Get in Touch
 
-If you’d like to connect, collaborate, or learn more about my work, feel free to reach out.
+If you'd like to connect, collaborate, or learn more about my work, feel free to reach out.  
+I'm always open to discussing data analytics, machine learning, business strategy, or project opportunities.
 
-### 📧 Email  
-hungtrung.nguyen95@gmail.com
+---
 
-### 🔗 LinkedIn  
-[Connect with me](https://www.linkedin.com/in/trung-hung-nguyen-111593253/)
+### 📧 **Email**  
+<a href="mailto:hungtrung.nguyen95@gmail.com">hungtrung.nguyen95@gmail.com</a>
 
-### 💼 GitHub  
-[View my repositories](https://github.com/LeoHungNguyen158)
+---
+
+### 🔗 **LinkedIn**  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/trung-hung-nguyen-111593253/)
+
+---
+
+### 💼 **GitHub**  
+[Visit My GitHub Profile](https://github.com/LeoHungNguyen158)
+
+---
+
+### 📍 **Location**  
+Boston, MA
 
 </div>
