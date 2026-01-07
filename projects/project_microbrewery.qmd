@@ -106,5 +106,6 @@ Click below to access the original project deliverables.
 
 <!-- BACK BUTTON -->
 <div style="text-align:center; margin-top:30px;" class="fade-up">
-  <a href="../projects.qmd" class="project-btn">⬅ Back to Projects</a>
+<a href="../projects.html" class="project-btn">⬅ Back to Projects</a>
+
 </div>
