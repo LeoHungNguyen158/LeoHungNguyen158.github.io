@@ -84,20 +84,21 @@ The combination of simulation, optimization, and forecasting led to a defensible
 <br>
 
 <!-- FILE DOWNLOADS -->
+
 <div class="content-block fade-up">
 
 # 📎 Project Files
 
 Click below to access the original project deliverables.
 
-### 📊 Main Presentation (PPTX)  
-[📥 Download Presentation]( "/mnt/data/AD 715 - Group 3 - MICRO-BREWERY- BUSINESS REPORT - PRESENTATION.pptx" ){.btn .btn-primary}
+### 📊 Main Presentation (PPTX)
+[📥 Download Presentation](files/microbrewery_presentation.pptx){.btn .btn-primary}
 
-### 📝 Report Part 1 (DOCX)  
-[📥 Download Report Part 1]( "/mnt/data/Team3_TTP_Part 1.docx" ){.btn .btn-primary}
+### 📝 Report Part 1 (DOCX)
+[📥 Download Report Part 1](files/microbrewery_report_part1.docx){.btn .btn-primary}
 
-### 📝 Report Part 2 (DOCX)  
-[📥 Download Report Part 2]( "/mnt/data/TTP2.docx" ){.btn .btn-primary}
+### 📝 Report Part 2 (DOCX)
+[📥 Download Report Part 2](files/microbrewery_report_part2.docx){.btn .btn-primary}
 
 </div>
 
