@@ -9,7 +9,7 @@ page-layout: full
 
 You can download my full résumé below:
 
-[📥 Download Resume (PDF)](cv/Leo_Nguyen_Resume.pdf){.btn .btn-primary}
+[📥 Download Resume (PDF)](cv/Hung Nguyen_Resume_2026.pdf){.btn .btn-primary}
 
 </div>
 
