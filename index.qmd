@@ -42,9 +42,9 @@ This site showcases a curated selection of my strongest analytics projects, each
 
 Use the navigation bar to explore:
 
-- **About**     My background & experience  
-- **Projects**  Interactive case-study pages  
-- **CV**        Full résumé  
-- **Contact**   Get in touch  
+- **About**     : My background & experience  
+- **Projects**  : Interactive case-study pages  
+- **CV**        : Full résumé  
+- **Contact**   : Get in touch  
 
 </div>
