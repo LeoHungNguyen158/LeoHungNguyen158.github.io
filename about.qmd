@@ -23,7 +23,6 @@ I’m also a **Teaching Assistant for AD599: Python & SQL for Business Analytics
 
 </div>
 
-
 <div class="content-block fade-up">
 
 # Professional Background
@@ -47,7 +46,6 @@ I performed market research, investor outreach, and partnership alignment for EV
 
 </div>
 
-
 <div class="content-block fade-up">
 
 # Interests & Focus
@@ -60,7 +58,6 @@ I performed market research, investor outreach, and partnership alignment for EV
 - Cloud Technologies & Scalable Analytics  
 
 </div>
-
 
 <div class="content-block fade-up">
 

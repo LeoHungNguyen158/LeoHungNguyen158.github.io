@@ -14,8 +14,8 @@ Transforming raw data into insights that help organizations make smarter, faster
 
 </div>
 
-
 <!-- INTRO SECTION -->
+
 <div class="content-block fade-up">
 
 # Welcome to My Portfolio

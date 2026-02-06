@@ -13,7 +13,6 @@ You can download my full résumé below:
 
 </div>
 
-
 <div class="content-block fade-up">
 
 # 🎓 Education
@@ -39,7 +38,6 @@ Relevant Coursework:
 - Quality Management  
 
 </div>
-
 
 <div class="content-block fade-up">
 
@@ -77,7 +75,6 @@ Relevant Coursework:
 - Facilitated multinational partnerships across Singapore, Korea, and Israel  
 
 </div>
-
 
 <div class="content-block fade-up">
 
