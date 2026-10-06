@@ -1,11 +1,11 @@
 /* ========================================= */
-/* GLOBAL THEME — Premium Warm Gradient UI   */
+/* GLOBAL THEME — Burgundy                   */
 /* ========================================= */
 
 /* Body Setup */
 body {
     font-family: "Inter", "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif;
-    background: #f7f9fc;
+    background: #F8F3F4; /* ĐỔI: nền trắng hồng rất nhạt */
     color: #222;
     line-height: 1.65;
     margin: 0;
@@ -23,7 +23,7 @@ body {
 /* NAVBAR — Clean & Professional             */
 /* ========================================= */
 .navbar {
-    background: linear-gradient(to right, #ff6a88, #f83600, #fe8c00, #ffd65c);
+    background: linear-gradient(to right, #461321, #78243D, #96374F); /* ĐỔI */
     padding: 14px !important;
     border-bottom: none;
 }
@@ -32,14 +32,14 @@ body {
     font-weight: 600;
 }
 .navbar a:hover {
-    color: #ffe4c7 !important;
+    color: #F2DDE4 !important; /* ĐỔI: màu chữ khi rê chuột */
 }
 
 /* ========================================= */
-/* HERO SECTION — Warm Gradient Banner       */
+/* HERO SECTION — Burgundy Gradient Banner  */
 /* ========================================= */
 .hero-box {
-    background: linear-gradient(135deg, #ff6a88 0%, #f83600 38%, #fe8c00 72%, #ffd65c 100%);
+    background: linear-gradient(135deg, #461321 0%, #78243D 55%, #96374F 100%); /* ĐỔI */
     padding: 65px 45px;
     border-radius: 20px;
     color: white;
@@ -58,8 +58,15 @@ body {
     opacity: 0.95;
 }
 
+/* THÊM: tiêu đề trong banner dùng chữ trắng */
+.hero-box h1,
+.hero-box h2,
+.hero-box h3 {
+    color: #fff;
+}
+
 /* ========================================= */
-/* PROFILE PHOTO                             */
+/* PROFILE PHOTO — GIỮ NGUYÊN                */
 /* ========================================= */
 .profile-photo {
     width: 220px;
@@ -73,7 +80,7 @@ body {
 }
 
 /* ========================================= */
-/* CONTENT BLOCK — Glassmorphism             */
+/* CONTENT BLOCK — GIỮ NGUYÊN                */
 /* ========================================= */
 .content-block {
     background: rgba(255, 255, 255, 0.92);
@@ -86,7 +93,7 @@ body {
 }
 
 /* ========================================= */
-/* PROJECT GRID — Interactive Cards          */
+/* PROJECT GRID — GIỮ NGUYÊN                 */
 /* ========================================= */
 .project-grid {
     display: grid;
@@ -112,10 +119,10 @@ body {
 }
 
 /* ========================================= */
-/* BUTTONS — Warm Glow Buttons               */
+/* BUTTONS — Burgundy                        */
 /* ========================================= */
 .btn-primary, .project-btn {
-    background: linear-gradient(135deg, #f83600, #fe8c00, #ffd65c);
+    background: linear-gradient(135deg, #641D32, #96374F); /* ĐỔI */
     border: none;
     color: #fff;
     padding: 11px 22px;
@@ -124,13 +131,14 @@ body {
     font-weight: 600;
 }
 .btn-primary:hover, .project-btn:hover {
-    background: linear-gradient(135deg, #ff6a88, #fe8c00);
+    background: linear-gradient(135deg, #461321, #78243D); /* ĐỔI */
+    color: #fff; /* THÊM: giữ chữ trắng khi rê chuột */
     transform: translateY(-2px);
-    box-shadow: 0 6px 18px rgba(255, 138, 76, 0.35);
+    box-shadow: 0 6px 18px rgba(120, 36, 61, 0.35); /* ĐỔI */
 }
 
 /* ========================================= */
-/* BACKGROUND WAVES — Premium Warm Glow      */
+/* BACKGROUND WAVES — Burgundy Glow          */
 /* ========================================= */
 body::before {
     content: "";
@@ -139,7 +147,7 @@ body::before {
     left: -200px;
     width: 750px;
     height: 750px;
-    background: radial-gradient(circle, rgba(255,130,92,0.16), transparent 70%);
+    background: radial-gradient(circle, rgba(120,36,61,0.10), transparent 70%); /* ĐỔI */
     z-index: -1;
 }
 body::after {
@@ -149,12 +157,12 @@ body::after {
     right: -200px;
     width: 750px;
     height: 750px;
-    background: radial-gradient(circle, rgba(255,120,70,0.14), transparent 70%);
+    background: radial-gradient(circle, rgba(150,55,79,0.08), transparent 70%); /* ĐỔI */
     z-index: -1;
 }
 
 /* ========================================= */
-/* TITLES                                    */
+/* TITLES — GIỮ NGUYÊN                       */
 /* ========================================= */
 h1, h2 {
     font-weight: 800;
@@ -169,30 +177,30 @@ h3 {
 /* LINKS                                     */
 /* ========================================= */
 a {
-    color: #d64100;
+    color: #78243D; /* ĐỔI */
     font-weight: 600;
 }
 a:hover {
-    color: #ff7a21;
+    color: #54172C; /* ĐỔI */
 }
 
 /* ========================================= */
-/* TABLE IMPROVEMENTS (optional)             */
+/* TABLE IMPROVEMENTS (optional)              */
 /* ========================================= */
 table {
     border-radius: 10px;
     overflow: hidden;
 }
 th {
-    background: #fee1c7;
+    background: #EEDDE3; /* ĐỔI */
     font-weight: 700;
 }
 td {
-    background: #fff8f0;
+    background: #FCF8F9; /* ĐỔI */
 }
 
 /* ========================================= */
-/* FOOTER                                    */
+/* FOOTER — GIỮ NGUYÊN                       */
 /* ========================================= */
 footer {
     margin-top: 40px;
