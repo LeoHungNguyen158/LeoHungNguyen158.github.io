@@ -5,7 +5,7 @@ page-layout: full
 
 <!-- PROFILE PHOTO -->
 <div style="text-align:center; margin-top: 20px;">
-  <img src="Leo_Professional_Office_Headshot.jpg"" 
+  <img src="assets/images/Leo_Professional_Office_Headshot.jpg"
        alt="Leo Hung Nguyen" 
        style="width:220px; height:220px; border-radius:14px; object-fit:cover; box-shadow:0px 10px 28px rgba(0,0,0,0.18);" 
        class="fade-up">
