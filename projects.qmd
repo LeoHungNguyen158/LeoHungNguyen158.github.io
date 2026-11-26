@@ -3,17 +3,28 @@ title: "Projects"
 page-layout: full
 ---
 
-<!-- HERO SECTION -->
 <div class="hero-box fade-up">
 
-# Analytics, Modeling & Insight Engineering  
-### Strategic, Data-Driven Solutions Across Real-World Projects
+# Selected Analytics & Applied AI Work
 
-I specialize in translating complex datasets into analytical systems, predictive models, and meaningful insights that support business growth and decision-making.
+Professional research and academic case studies. Each project describes the decision it supported and the methods behind it.
 
 </div>
 
-<!-- PROJECT GRID -->
+<div class="content-block fade-up">
+
+## Featured professional work
+
+### Crew Scaler | Workforce Research & AI Education
+
+I analyzed job-posting evidence to inform training priorities, tested a workflow for checking lesson handoffs, and co-authored a public preprint on AI-assisted upskilling.
+
+[View Crew Scaler case study](projects/project_crew_scaler.qmd){.project-btn}
+
+</div>
+
+## Applied analytics projects
+
 <div class="project-grid">
 
 <!-- MICROBREWERY -->

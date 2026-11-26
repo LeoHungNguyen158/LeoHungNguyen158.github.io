@@ -3,48 +3,41 @@ title: "Home"
 page-layout: full
 ---
 
-<!-- HERO SECTION -->
 <div class="hero-box fade-up">
 
-# I Turn Complex Data Into **Clarity**, **Confidence**, and **Competitive Advantage**
+# Business analytics for decisions people can act on
 
-### Data Analyst • Business Analytics • Machine Learning • Strategy
+### Leo Hung Nguyen | Boston, Massachusetts
 
-Transforming raw data into insights that help organizations make smarter, faster, and more informed decisions.
+I use SQL, Python, and structured research to turn messy evidence into clear recommendations. My recent work at Crew Scaler focuses on workforce analytics, AI education, and practical ways to review AI-assisted work.
+
+[Explore selected work](projects.qmd){.btn .btn-light}
+[View résumé](cv.qmd){.btn .btn-outline-light}
 
 </div>
 
-<!-- INTRO SECTION -->
-
 <div class="content-block fade-up">
 
-# Welcome to My Portfolio
+## Featured: From job postings to training priorities
 
-Thank you for visiting my professional analytics portfolio.  
-I’m **Leo Hung Nguyen**, a graduate student in Applied Business Analytics at **Boston University**, specializing in:
+Which skills should an AI training program teach first? At Crew Scaler, I turned job descriptions into a structured skills analysis that helped the team compare training priorities. The work also surfaced a limitation: a skill appearing often in job ads is a useful signal, but it does not establish the size of the labor market.
 
-- Predictive Modeling & Machine Learning  
-- Data Engineering & ETL Pipelines  
-- Business Intelligence & Decision Science  
-- SQL + Python Analytics Workflows  
-- Operations, Risk, and Market Analysis  
+[See the research approach and my contribution](projects/project_crew_scaler.qmd){.project-btn}
 
-Across my academic and professional journey, I’ve tackled real-world problems in:
+</div>
 
-- Hospitality finance  
-- International marketing  
-- Renewable energy & EV tech  
-- Healthcare technology  
-- Supply chain & logistics  
-- Consumer behavior analytics  
+<div class="project-grid">
 
-This site showcases a curated selection of my strongest analytics projects, each combining **technical modeling** with **business impact**.
+<div class="project-card">
+<h3>Business &amp; workforce analytics</h3>
+<p>Market research, SQL and Python workflows, forecasting, and customer segmentation.</p>
+<a href="projects.qmd" class="project-btn">Browse case studies</a>
+</div>
 
-Use the navigation bar to explore:
-
-- **About**     : My background & experience  
-- **Projects**  : Interactive case-study pages  
-- **CV**        : Full résumé  
-- **Contact**   : Get in touch  
+<div class="project-card">
+<h3>Applied AI &amp; research</h3>
+<p>AI-assisted content workflows with explicit checks for source accuracy, review, and reproducibility.</p>
+<a href="projects/project_crew_scaler.qmd" class="project-btn">See Crew Scaler work</a>
+</div>
 
 </div>

@@ -1,0 +1,50 @@
+---
+title: "Crew Scaler | Workforce Research & AI Education"
+page-layout: full
+---
+
+<div class="hero-box fade-up">
+
+# Workforce research and AI education
+
+### Crew Scaler | Selected professional work
+
+Skills-demand analysis, workflow quality checks, and co-authored research on professional upskilling.
+
+</div>
+
+<div class="content-block fade-up">
+
+## 1. Workforce research: deciding what to teach first
+
+**Question.** Which skills should a proposed AI training program prioritize, and how reliable are the job postings behind that recommendation?
+
+**My contribution.** I mapped job descriptions to a common competency taxonomy, compared skill signals across roles, and reviewed what the source material did and did not support. I translated the analysis into recommendations the team could discuss when designing training.
+
+**Judgment.** I treated posting frequency as one input, not a count of unique vacancies or a forecast. When salary information was missing, I kept that gap visible rather than presenting a complete-looking pay estimate.
+
+</div>
+
+<div class="content-block fade-up">
+
+## 2. Lesson production: catching mistakes before handoff
+
+**Question.** How can a team convert slides and speaker notes into a lesson without dropping content or changing its order?
+
+**My contribution.** I prototyped a Python workflow to compare slide order and narration against the source deck. I tested it offline with known mismatch cases and documented which steps still required an end-to-end test in the live video workflow.
+
+**Judgment.** Passing offline checks showed that the comparison worked on those test cases. It did not establish that a final video would preserve timing, layout, and captions, so I kept those as separate review checks.
+
+</div>
+
+<div class="content-block fade-up">
+
+## 3. Public research: professional upskilling
+
+I co-authored *AI-accelerated End-to-End Framework for Rapid Professional Upskilling* with Tam Nguyen and Robert Ogburn. The July 2026 arXiv preprint describes how AI can support knowledge acquisition, content development and verification, teaching, and assessment.
+
+[Read the arXiv preprint](https://arxiv.org/abs/2607.14044){.project-btn}
+
+</div>
+
+[Back to Projects](../projects.qmd){.project-btn}

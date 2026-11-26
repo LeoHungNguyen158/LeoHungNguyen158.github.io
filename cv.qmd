@@ -1,88 +1,59 @@
 ---
-title: "Curriculum Vitae"
+title: "Résumé"
 page-layout: full
 ---
 
 <div class="content-block fade-up">
 
-# 📄 Curriculum Vitae
+# Leo Hung Nguyen
 
-You can download my full résumé below:
+**Business Analytics | Workforce Research | Applied AI**
 
-[📥 Download Resume (PDF)](cv/Hung_Nguyen_Resume_2026_ATS.pdf){.btn .btn-primary}
+Boston, Massachusetts
 
-</div>
-
-<div class="content-block fade-up">
-
-# 🎓 Education
-
-### **Boston University — Metropolitan College (Boston, MA)**  
-**M.S. in Applied Business Analytics**  
-*Expected January 2026*  
-Relevant Coursework:  
-- Data Mining  
-- Cloud Analytics  
-- Python & SQL  
-- Marketing Analytics  
-- Enterprise Risk Analytics  
-- Decision-Making & Operations  
-
----
-
-### **University of Technology Sydney (Sydney, Australia)**  
-**Master of Property Development & Project Management (2019–2024)**  
-Relevant Coursework:  
-- Advances in Project Management  
-- Project Risk & Procurement  
-- Quality Management  
+[Download résumé (PDF)](cv/Hung_Nguyen_Resume_2026_ATS.pdf){.btn .btn-primary}
+[View selected work](projects.qmd){.project-btn}
 
 </div>
 
 <div class="content-block fade-up">
 
-# 💼 Experience
+## Experience
 
-### **Teaching Assistant — AD599 Python & SQL for Business Analytics**  
-**Boston University** | Sept 2025 – Present  
-- Support 70+ graduate students with Python scripting, SQL querying, and data modeling labs  
-- Grade assignments and guide students through loops, joins, and analytic logic  
-- Assist instructors with project evaluation and course content refinement  
+### Crew Scaler | Senior Analyst
+*April 2026 to Present*
 
----
+- Analyze workforce and market evidence to inform program and training recommendations.
+- Develop bilingual planning materials and evidence summaries for stakeholder review.
+- Prototype checks for AI-assisted lesson handoffs and document the limits of offline testing.
+- Co-authored a [public preprint on AI-assisted professional upskilling](https://arxiv.org/abs/2607.14044).
 
-### **Digital Marketing Director — Tin A Co., Ltd**  
-**Ho Chi Minh City, Vietnam** | Mar 2024 – Mar 2025  
-- Led international market-entry and marketing strategies across renewable energy, healthcare tech, and consumer sectors  
-- Improved targeting accuracy through segmentation  
-- Streamlined logistics for 7+ monthly import/export operations  
-- Secured 5+ partnerships across Asia, Australia, and North America  
+### Boston University Metropolitan College | Teaching Assistant, Python & SQL for Business Analytics
+*September to December 2025*
 
----
+Supported graduate learners through office hours, grading, and feedback on analytical projects.
 
-### **Data Analyst — Finance Department**  
-**Marriott Bonvoy Renaissance Riverside** | Mar 2022 – Jul 2023  
-- Supported cost modeling and financial forecasting contributing to quarterly revenue uplift  
-- Automated 10+ recurring reporting workflows using Excel VBA & PivotTables  
-- Improved inventory accuracy by supporting cross-department audit initiatives  
+### Tin A Co., Ltd. | Digital Marketing Analyst
+*March to August 2024*
 
----
+Supported market-entry research and segmentation for new markets.
 
-### **Marketing & Project Development — Thang Uy Group**  
-**Ho Chi Minh City, Vietnam** | Mar 2021 – Mar 2022  
-- Conducted market and competitor research for EV infrastructure expansion  
-- Assisted in investor engagement for early-phase EV initiatives  
-- Facilitated multinational partnerships across Singapore, Korea, and Israel  
+### Renaissance Riverside Saigon | Data Analyst, Finance
+*March 2022 to July 2023*
+
+Supported forecasting, recurring reporting, and financial and inventory data validation.
 
 </div>
 
 <div class="content-block fade-up">
 
-# 🛠 Technical Skills
+## Education
 
-**Languages:** Python, R, SQL  
-**Databases:** MySQL, SQLite, Google BigQuery  
-**Tools:** Power BI, Tableau, RStudio, Jupyter, Excel (VBA, Solver, PivotTables)  
-**Strengths:** Predictive Modeling, Data Cleaning, ETL Automation, Forecasting, Optimization, Visualization
+- **Boston University Metropolitan College:** M.S. in Applied Business Analytics, January 2026.
+- **University of Technology Sydney:** Master of Property Development and Project Management.
+
+## Selected skills
+
+SQL, Python, R, Excel, Power BI, Tableau, data cleaning and validation, reproducible analysis, forecasting, and stakeholder reporting.
 
 </div>

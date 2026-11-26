@@ -3,66 +3,27 @@ title: "About Me"
 page-layout: full
 ---
 
-<!-- PROFILE PHOTO -->
-<div style="text-align:center; margin-top: 20px;">
-  <img src="assets/images/Leo_Professional_Office_Headshot.jpg"
-       alt="Leo Hung Nguyen" 
-       style="width:220px; height:220px; border-radius:14px; object-fit:cover; box-shadow:0px 10px 28px rgba(0,0,0,0.18);" 
-       class="fade-up">
-</div>
-
-<br>
-
 <div class="content-block fade-up">
 
-# Hi, I'm **Leo Hung Nguyen**
+<img src="assets/images/Leo_Professional_Office_Headshot.jpg" class="profile-photo" alt="Portrait of Leo Hung Nguyen">
 
-I’m a graduate student in **Applied Business Analytics at Boston University**, specializing in predictive modeling, data engineering, machine learning, and analytical strategy. My work focuses on transforming messy, complex datasets into insights that enable better decision-making and measurable business impact.
+# Hi, I'm Leo Hung Nguyen
 
-I’m also a **Teaching Assistant for AD599: Python & SQL for Business Analytics**, where I support 70+ graduate students in mastering Python scripting, SQL querying, analytical workflows, and problem-solving techniques. This role has strengthened my communication, technical depth, and ability to guide others through complex analytical challenges.
+I'm a Boston-based analyst with an M.S. in Applied Business Analytics from Boston University. I'm interested in roles where I can investigate a business question, make the analysis reproducible, and explain what the evidence supports.
+
+At **Crew Scaler**, I work on market research, program planning, and AI education. I bring the same habits to each: define the question first, keep a record of the evidence, and separate what we know from what we still need to test.
 
 </div>
 
 <div class="content-block fade-up">
 
-# Professional Background
+## My background
 
-I bring hands-on experience across **data analytics, financial modeling, marketing strategy, and international business development**, along with strong problem-solving capabilities developed across multiple industries.
+- **Crew Scaler:** Workforce and market research, planning materials, and AI-assisted content review.
+- **Boston University Metropolitan College:** Teaching assistant for Python & SQL for Business Analytics in Fall 2025. I supported graduate students through office hours, grading, and project feedback.
+- **Tin A Co., Ltd.:** Market-entry research and digital marketing analysis.
+- **Renaissance Riverside Saigon:** Financial reporting, data validation, and analysis supporting operations.
 
-### **Digital Marketing Director – Tin A Co., Ltd (HCMC, Vietnam)**  
-I led data-driven marketing and international trade strategies across renewable energy, healthcare tech, automotive, and food sectors.  
-- Improved targeting accuracy through segmentation  
-- Managed 7+ monthly import/export operations  
-- Secured partnerships across Asia, Australia & North America  
-
-### **Data Analyst – Marriott Bonvoy Renaissance Riverside (Finance Department)**  
-I conducted cost modeling, automated financial reporting, and improved audit accuracy through analytics.  
-- Reduced reporting errors  
-- Automated 10+ workflows  
-- Supported revenue optimization initiatives  
-
-### **Marketing & Project Development – Thang Uy Group**  
-I performed market research, investor outreach, and partnership alignment for EV infrastructure development across Singapore, Korea, Israel, and Vietnam.
-
-</div>
-
-<div class="content-block fade-up">
-
-# Interests & Focus
-
-- Predictive Modeling & Machine Learning  
-- SQL Pipelines & ETL Automation  
-- Business Intelligence & Visualization  
-- Operations & Financial Analytics  
-- Market Analysis & Strategy  
-- Cloud Technologies & Scalable Analytics  
-
-</div>
-
-<div class="content-block fade-up">
-
-# Personal Side
-
-Outside of analytics, I enjoy exploring food spots, traveling, creating mechanical keyboards, watching basketball, and discovering ideas at the intersection of strategy, business, and technology.
+[See selected work](projects.qmd){.project-btn}
 
 </div>
