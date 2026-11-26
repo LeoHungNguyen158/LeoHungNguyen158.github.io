@@ -98,24 +98,6 @@ RFM + K-means clustering identified:
 
 <br>
 
-<!-- DOWNLOADS -->
-<div class="content-block fade-up">
-
-# 📎 Project Files
-
-### 📝 Phase 1 Report (DOCX)
-[📥 Download Phase 1]("/mnt/data/Writing Report_Final Project Phase 1_Hung Trung Nguyen_U89837429_AD599S B1.docx"){.btn .btn-primary}
-
-### 📘 Phase 2 Analysis (PDF)
-[📥 Download Phase 2 (Model Output)]("/mnt/data/AD 599S FINAL PROJECT PHASE 2_ HUNG TRUNG NGUYEN_U89837429.ipynb - Colab.pdf"){.btn .btn-primary}
-
-### 🎤 Presentation (PPTX)
-[📥 Download Final Presentation]("/mnt/data/Final Project_Hung Trung Nguyen_U898374.pptx"){.btn .btn-primary}
-
-</div>
-
-<br>
-
 <!-- BACK BUTTON -->
 <div style="text-align:center; margin-top:30px;" class="fade-up">
   <a href="../projects.qmd" class="project-btn">⬅ Back to Projects</a>
